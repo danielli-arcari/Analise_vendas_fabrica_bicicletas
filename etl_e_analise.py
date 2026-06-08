@@ -1,11 +1,5 @@
 """
 ETL e analise das vendas de bicicletas (2013 a 2016)
-
-Este script reproduz, em Python, as mesmas transformacoes feitas no Power
-Query do projeto em Power BI. A ideia e mostrar que a mesma logica de
-tratamento e analise pode ser escrita em codigo, e nao apenas clicando na
-ferramenta.
-
 Etapas:
     1. Ler os 4 arquivos de origem (vendas e fabricacao, em dois periodos)
     2. Separar Pais e Produto nos arquivos de 2013-2014 (vinham numa coluna so)
@@ -23,18 +17,16 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 
-# Caminhos relativos a raiz do repositorio
-RAIZ = Path(__file__).resolve().parents[1]
-BRUTOS = RAIZ / "dados" / "brutos"
-TRATADOS = RAIZ / "dados" / "tratados"
-IMAGENS = RAIZ / "imagens"
-TRATADOS.mkdir(parents=True, exist_ok=True)
-IMAGENS.mkdir(parents=True, exist_ok=True)
+# Todos os arquivos ficam na mesma pasta deste script
+
+PASTA = Path(__file__).resolve().parent
+BRUTOS = PASTA
+TRATADOS = PASTA
+IMAGENS = PASTA
 
 
-# ---------------------------------------------------------------------------
 # 1. Leitura
-# ---------------------------------------------------------------------------
+
 def ler(nome):
     return pd.read_excel(BRUTOS / nome, sheet_name=0)
 
@@ -44,12 +36,8 @@ manuf_13 = ler("Base_de_dados_2013_2014_-_Manufacturing.xlsx")
 manuf_15 = ler("Base_de_dados_2015_2016_-_Manufacturing.xlsx")
 
 
-# ---------------------------------------------------------------------------
 # 2. Separar Pais e Produto nos arquivos de 2013-2014
-#    Nesses arquivos os dois vinham juntos na coluna "Country,Product",
-#    com valores como "Germany,Carretera". Sem separar, nao da para filtrar
-#    ou comparar pais e produto de forma independente.
-# ---------------------------------------------------------------------------
+
 def separar_pais_produto(df):
     partes = df["Country,Product"].str.split(",", n=1, expand=True)
     df["Country"] = partes[0].str.strip()
@@ -60,21 +48,14 @@ sales_13 = separar_pais_produto(sales_13)
 manuf_13 = separar_pais_produto(manuf_13)
 
 
-# ---------------------------------------------------------------------------
 # 3. Padronizar nomes de coluna
-#    A coluna de vendas vinha como " Sales" (com espaco na frente). Tirar os
-#    espacos evita erro na hora de somar ou referenciar a coluna.
-# ---------------------------------------------------------------------------
+
 for df in (sales_13, sales_15, manuf_13, manuf_15):
     df.columns = [c.strip() for c in df.columns]
 
 
-# ---------------------------------------------------------------------------
 # 4. Corrigir erros de digitacao
-#    Os mesmos valores escritos de formas diferentes viram categorias
-#    duplicadas no grafico (ex.: "Government" e "Governmemt" aparecem como
-#    dois segmentos). A correcao junta tudo no nome certo.
-# ---------------------------------------------------------------------------
+
 CORRECAO_SEGMENTO = {
     "Chanel Partners": "Channel Partners",
     "Enter&rise": "Enterprise",
@@ -90,11 +71,8 @@ for df in (sales_13, sales_15, manuf_13, manuf_15):
     df["Product"] = df["Product"].astype(str).str.strip()
 
 
-# ---------------------------------------------------------------------------
 # 5. Unir os periodos (append)
-#    Resultado: uma base unica de vendas e uma de fabricacao, cobrindo
-#    todo o periodo de 2013 a 2016. Fonte unica de verdade.
-# ---------------------------------------------------------------------------
+
 vendas = pd.concat([sales_13, sales_15], ignore_index=True)
 fabricacao = pd.concat([manuf_13, manuf_15], ignore_index=True)
 vendas["Date"] = pd.to_datetime(vendas["Date"])
@@ -103,16 +81,14 @@ print(f"Vendas tratadas:     {len(vendas)} linhas")
 print(f"Fabricacao tratada:  {len(fabricacao)} linhas")
 
 
-# ---------------------------------------------------------------------------
 # 6. Salvar bases tratadas
-# ---------------------------------------------------------------------------
+
 vendas.to_csv(TRATADOS / "vendas_tratadas.csv", index=False, encoding="utf-8-sig")
 fabricacao.to_csv(TRATADOS / "fabricacao_tratada.csv", index=False, encoding="utf-8-sig")
 
 
-# ---------------------------------------------------------------------------
 # 7. Analise
-# ---------------------------------------------------------------------------
+
 total_vendas = vendas["Sales"].sum()
 total_lucro = vendas["Profit"].sum()
 margem = total_lucro / total_vendas
