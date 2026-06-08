@@ -13,21 +13,17 @@ A área comercial precisa de duas visões:
 
 Em resumo, a pergunta a responder é: onde estão os melhores resultados, onde a empresa está perdendo dinheiro e o que fazer com isso.
 
-## Estrutura do repositório
+## Arquivos do repositório
 
-```
-.
-├── dados/
-│   ├── brutos/          Os 4 arquivos Excel de origem
-│   └── tratados/        Bases já limpas e consolidadas (CSV)
-├── python/
-│   └── etl_e_analise.py Reprodução do ETL e da análise em pandas
-├── sql/
-│   └── analise_vendas.sql  Mesma lógica em SQL (dialeto PostgreSQL)
-├── powerbi/             Arquivo .pbix do dashboard
-├── relatorio/           Relatório detalhado e apresentação dos resultados
-└── imagens/             Gráficos usados neste README
-```
+- `README.md`: este documento.
+- `etl_e_analise.py`: reprodução do ETL e da análise em Python (pandas).
+- `analise_vendas.sql`: a mesma lógica de transformação e análise em SQL (dialeto PostgreSQL).
+- `dashboard_vendas_bicicletas.pbix`: o dashboard em Power BI.
+- `relatorio_analise.docx`: o relatório detalhado da análise.
+- `apresentacao.pptx`: a apresentação dos resultados.
+- `Base_de_dados_2013_2014_-_Sales.xlsx`, `Base_de_dados_2015_2016_-_Sales.xlsx`, `Base_de_dados_2013_2014_-_Manufacturing.xlsx`, `Base_de_dados_2015_2016_-_Manufacturing.xlsx`: os dados de origem.
+- `vendas_tratadas.csv`, `fabricacao_tratada.csv`: as bases já limpas e consolidadas.
+- `vendas_por_ano.png`, `lucro_por_segmento.png`, `vendas_por_produto.png`: os gráficos usados neste README.
 
 ## Os dados
 
@@ -80,7 +76,7 @@ Os números abaixo vêm da base tratada e podem ser reproduzidos rodando o scrip
 
 **A queda de 2015 é a história central**
 
-![Vendas por ano](imagens/vendas_por_ano.png)
+![Vendas por ano](vendas_por_ano.png)
 
 De 2014 para 2015 as vendas caíram 42,6%, de R$ 97,6 milhões para R$ 56,0 milhões. Em 2016 o patamar ficou praticamente estável em relação a 2015 (variação de +0,1%), ou seja, não houve recuperação, e sim estagnação no novo nível mais baixo.
 
@@ -88,7 +84,7 @@ Uma observação importante de leitura dos dados: o ano de 2013 tem apenas 4 mes
 
 **Enterprise opera no prejuízo**
 
-![Lucro por segmento](imagens/lucro_por_segmento.png)
+![Lucro por segmento](lucro_por_segmento.png)
 
 Este é o achado que mais muda a estratégia. O segmento Enterprise é o terceiro maior em vendas (R$ 38,0 milhões), mas opera com margem negativa de 3%, gerando prejuízo de R$ 1,13 milhão. Ou seja, vende bastante e ainda assim perde dinheiro.
 
@@ -106,7 +102,7 @@ O Government sustenta o negócio: responde por 70% de todo o lucro com 44% das u
 
 **Produtos e países**
 
-![Vendas por produto](imagens/vendas_por_produto.png)
+![Vendas por produto](vendas_por_produto.png)
 
 Paseo é o produto mais vendido com folga (R$ 63,9 milhões), enquanto Carretera é o menos vendido (R$ 29,2 milhões). Entre os países, a disputa é equilibrada: Alemanha lidera (R$ 51,6 milhões), seguida de perto por Canadá, Estados Unidos e França, com o México na lanterna (R$ 39,4 milhões).
 
@@ -124,14 +120,14 @@ Paseo é o produto mais vendido com folga (R$ 63,9 milhões), enquanto Carretera
 
 ```bash
 pip install pandas openpyxl matplotlib
-python python/etl_e_analise.py
+python etl_e_analise.py
 ```
 
-O script lê os arquivos de `dados/brutos`, gera as bases tratadas em `dados/tratados`, imprime os indicadores no terminal e salva os gráficos em `imagens`.
+O script lê os arquivos de dados que estão na mesma pasta, gera as bases tratadas em CSV, imprime os indicadores no terminal e salva os gráficos como PNG.
 
 **Em SQL**
 
-O arquivo `sql/analise_vendas.sql` cria as tabelas de origem, faz a limpeza e a união, monta a tabela de calendário e traz as queries de análise que reproduzem as medidas do dashboard. Foi escrito em dialeto PostgreSQL e validado contra os mesmos resultados do Python.
+O arquivo `analise_vendas.sql` cria as tabelas de origem, faz a limpeza e a união, monta a tabela de calendário e traz as queries de análise que reproduzem as medidas do dashboard. Foi escrito em dialeto PostgreSQL e validado contra os mesmos resultados do Python.
 
 ## Ferramentas utilizadas
 
