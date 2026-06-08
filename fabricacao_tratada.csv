@@ -1,0 +1,1374 @@
+﻿Segment,Units Sold,Manufacturing Price,COGS,Date,Month Number,Month Name,Year,Product_Name,Country,Product
+Government,1513.0,3,393380.0,2014-12-01,12,December,2014,,Germany,Carretera
+Government,1006.0,10,261560.0,2014-06-01,6,June,2014,,Germany,Paseo
+Government,1725.0,10,448500.0,2013-11-01,11,November,2013,,Canada,Paseo
+Government,1513.0,10,393380.0,2014-12-01,12,December,2014,,Germany,Paseo
+Government,1006.0,120,261560.0,2014-06-01,6,June,2014,,Germany,Velo
+Government,1527.0,250,397020.0,2013-09-01,9,September,2013,,France,VTT
+Government,2750.0,260,715000.0,2014-02-01,2,February,2014,,France,Amarilla
+Government,1210.0,3,314600.0,2014-03-01,3,March,2014,,Mexico,Carretera
+Government,1397.0,3,363220.0,2014-10-01,10,October,2014,,Mexico,Carretera
+Government,2155.0,3,560300.0,2014-12-01,12,December,2014,,France,Carretera
+Government,2155.0,10,560300.0,2014-12-01,12,December,2014,,France,Paseo
+Government,943.5,250,245310.0,2014-04-01,4,April,2014,,Canada,VTT
+Government,1397.0,250,363220.0,2014-10-01,10,October,2014,,Mexico,VTT
+Government,2852.0,3,741520.0,2014-12-01,12,December,2014,,Canada,Carretera
+Government,2852.0,10,741520.0,2014-12-01,12,December,2014,,Canada,Paseo
+Government,2966.0,120,771160.0,2013-10-01,10,October,2013,,Germany,Velo
+Government,2877.0,120,748020.0,2014-10-01,10,October,2014,,Germany,Velo
+Government,2877.0,250,748020.0,2014-10-01,10,October,2014,,Germany,VTT
+Government,266.0,250,69160.0,2013-12-01,12,December,2013,,United States of America,VTT
+Government,1940.0,250,504400.0,2013-12-01,12,December,2013,,Mexico,VTT
+Government,2966.0,260,771160.0,2013-10-01,10,October,2013,,Germany,Amarilla
+Government,1797.0,5,467220.0,2013-09-01,9,September,2013,,Germany,Montana
+Government,1642.0,250,426920.0,2014-08-01,8,August,2014,,Mexico,VTT
+Government,274.0,3,71240.0,2014-12-01,12,December,2014,,United States of America,Carretera
+Government,3450.0,10,897000.0,2014-07-01,7,July,2014,,United States of America,Paseo
+Government,274.0,10,71240.0,2014-12-01,12,December,2014,,United States of America,Paseo
+Government,2177.0,120,566020.0,2014-10-01,10,October,2014,,France,Velo
+Government,349.0,250,90740.0,2013-09-01,9,September,2013,,United States of America,VTT
+Government,2177.0,250,566020.0,2014-10-01,10,October,2014,,France,VTT
+Government,1865.0,260,484900.0,2014-02-01,2,February,2014,,Mexico,Amarilla
+Government,1907.0,260,495820.0,2014-09-01,9,September,2014,,Germany,Amarilla
+Government,1778.0,260,462280.0,2013-12-01,12,December,2013,,Canada,Amarilla
+Government,1384.5,5,359970.0,2014-01-01,1,January,2014,,France,Montana
+Government,720.0,5,187200.0,2013-09-01,9,September,2013,,Mexico,Montana
+Government,602.0,10,156520.0,2014-06-01,6,June,2014,,United States of America,Paseo
+Government,1228.0,10,319280.0,2013-10-01,10,October,2013,,Canada,Paseo
+Government,602.0,120,156520.0,2014-06-01,6,June,2014,,United States of America,Velo
+Government,1350.0,260,351000.0,2014-02-01,2,February,2014,,Germany,Amarilla
+Government,552.0,260,143520.0,2014-08-01,8,August,2014,,Canada,Amarilla
+Government,1228.0,260,319280.0,2013-10-01,10,October,2013,,Canada,Amarilla
+Government,980.0,5,254800.0,2014-04-01,4,April,2014,,Mexico,Montana
+Government,1460.0,5,379600.0,2014-05-01,5,May,2014,,Germany,Montana
+Government,1496.0,10,388960.0,2014-06-01,6,June,2014,,France,Paseo
+Government,727.0,10,189020.0,2013-10-01,10,October,2013,,United States of America,Paseo
+Government,1496.0,120,388960.0,2014-06-01,6,June,2014,,France,Velo
+Government,2076.0,120,539760.0,2013-10-01,10,October,2013,,France,Velo
+Government,1679.0,260,436540.0,2014-09-01,9,September,2014,,Mexico,Amarilla
+Government,727.0,260,189020.0,2013-10-01,10,October,2013,,United States of America,Amarilla
+Government,2076.0,260,539760.0,2013-10-01,10,October,2013,,France,Amarilla
+Government,1761.0,3,457860.0,2014-03-01,3,March,2014,,United States of America,Carretera
+Government,2876.0,260,747760.0,2014-09-01,9,September,2014,,France,Amarilla
+Government,1362.0,3,354120.0,2014-12-01,12,December,2014,,Mexico,Carretera
+Government,2146.0,10,557960.0,2013-11-01,11,November,2013,,Germany,Paseo
+Government,1362.0,10,354120.0,2014-12-01,12,December,2014,,Mexico,Paseo
+Government,574.5,250,149370.0,2014-04-01,4,April,2014,,France,VTT
+Government,381.0,250,99060.0,2014-08-01,8,August,2014,,France,VTT
+Government,422.0,250,109720.0,2014-08-01,8,August,2014,,Germany,VTT
+Government,1666.0,5,433160.0,2014-05-01,5,May,2014,,France,Montana
+Government,2417.0,10,628420.0,2014-01-01,1,January,2014,,Mexico,Paseo
+Government,1307.0,120,339820.0,2014-07-01,7,July,2014,,Germany,Velo
+Government,1269.0,120,329940.0,2014-10-01,10,October,2014,,Canada,Velo
+Government,1351.5,250,351390.0,2014-04-01,4,April,2014,,United States of America,VTT
+Government,2071.0,260,538460.0,2014-09-01,9,September,2014,,United States of America,Amarilla
+Government,1269.0,260,329940.0,2014-10-01,10,October,2014,,Canada,Amarilla
+Government,2313.0,5,601380.0,2014-05-01,5,May,2014,,United States of America,Montana
+Government,639.0,120,166140.0,2014-07-01,7,July,2014,,France,Velo
+Government,2807.0,250,729820.0,2014-08-01,8,August,2014,,United States of America,VTT
+Government,1870.0,250,486200.0,2013-12-01,12,December,2013,,Germany,VTT
+Government,2240.0,260,582400.0,2014-02-01,2,February,2014,,Canada,Amarilla
+Government,707.0,260,183820.0,2014-09-01,9,September,2014,,Canada,Amarilla
+Government,792.0,3,205920.0,2014-03-01,3,March,2014,,Germany,Carretera
+Government,766.0,5,199160.0,2014-01-01,1,January,2014,,Germany,Montana
+Government,2104.5,10,547170.0,2014-07-01,7,July,2014,,Canada,Paseo
+Government,344.0,120,89440.0,2013-10-01,10,October,2013,,Mexico,Velo
+Government,344.0,260,89440.0,2013-10-01,10,October,2013,,Mexico,Amarilla
+Government,886.0,3,230360.0,2014-06-01,6,June,2014,,Mexico,Carretera
+Government,886.0,10,230360.0,2014-06-01,6,June,2014,,Mexico,Paseo
+Government,1594.0,10,414440.0,2014-11-01,11,November,2014,,France,Paseo
+Government,1197.0,10,311220.0,2014-11-01,11,November,2014,,Mexico,Paseo
+Government,1395.0,120,362700.0,2014-07-01,7,July,2014,,Mexico,Velo
+Government,986.0,120,256360.0,2014-10-01,10,October,2014,,United States of America,Velo
+Government,623.0,250,161980.0,2013-09-01,9,September,2013,,Canada,VTT
+Government,986.0,250,256360.0,2014-10-01,10,October,2014,,United States of America,VTT
+Government,270.0,260,70200.0,2014-02-01,2,February,2014,,United States of America,Amarilla
+Government,923.0,3,239980.0,2014-03-01,3,March,2014,,Canada,Carretera
+Government,1790.0,3,465400.0,2014-03-01,3,March,2014,,France,Carretera
+Government,982.5,5,255450.0,2014-01-01,1,January,2014,,United States of America,Montana
+Government,2632.0,10,684320.0,2014-06-01,6,June,2014,,Canada,Paseo
+Government,357.0,10,92820.0,2014-11-01,11,November,2014,,Germany,Paseo
+Government,2632.0,120,684320.0,2014-06-01,6,June,2014,,Canada,Velo
+Government,2227.5,5,579150.0,2014-01-01,1,January,2014,,Canada,Montana
+Government,1199.0,5,311740.0,2014-04-01,4,April,2014,,Germany,Montana
+Government,200.0,5,52000.0,2014-05-01,5,May,2014,,Canada,Montana
+Government,700.0,10,182000.0,2014-11-01,11,November,2014,,Canada,Paseo
+Government,1177.0,10,306020.0,2014-11-01,11,November,2014,,United States of America,Paseo
+Government,1922.0,10,499720.0,2013-11-01,11,November,2013,,France,Paseo
+Government,1281.0,250,333060.0,2013-12-01,12,December,2013,,France,VTT
+Government,2851.0,10,741260.0,2014-05-01,5,May,2014,,Mexico,Paseo
+Government,2007.0,10,521820.0,2013-11-01,11,November,2013,,United States of America,Paseo
+Government,2151.0,10,559260.0,2013-11-01,11,November,2013,,Mexico,Paseo
+Government,1618.5,3,16185.0,2014-01-01,1,January,2014,,Canada,Carretera
+Government,1321.0,3,13210.0,2014-01-01,1,January,2014,,Germany,Carretera
+Government,1899.0,5,18990.0,2014-06-01,6,June,2014,,France,Montana
+Government,292.0,10,2920.0,2014-02-01,2,February,2014,,Canada,Paseo
+Government,1817.0,10,18170.0,2014-12-01,12,December,2014,,Canada,Paseo
+Government,1817.0,250,18170.0,2014-12-01,12,December,2014,,Canada,VTT
+Government,1899.0,260,18990.0,2014-06-01,6,June,2014,,France,Amarilla
+Government,1375.5,5,13755.0,2014-07-01,7,July,2014,,France,Montana
+Government,3864.0,120,38640.0,2014-04-01,4,April,2014,,France,Velo
+Government,1566.0,5,15660.0,2014-10-01,10,October,2014,,United States of America,Montana
+Government,1566.0,120,15660.0,2014-10-01,10,October,2014,,United States of America,Velo
+Government,544.0,120,5440.0,2013-12-01,12,December,2013,,Mexico,Velo
+Government,1236.0,260,12360.0,2014-11-01,11,November,2014,,United States of America,Amarilla
+Government,941.0,260,9410.0,2014-11-01,11,November,2014,,France,Amarilla
+Government,2580.0,3,25800.0,2014-04-01,4,April,2014,,Germany,Carretera
+Government,831.0,3,8310.0,2014-05-01,5,May,2014,,Canada,Carretera
+Government,3850.5,120,38505.0,2014-04-01,4,April,2014,,Canada,Velo
+Government,736.0,120,7360.0,2013-09-01,9,September,2013,,United States of America,Velo
+Government,2074.0,10,20740.0,2014-09-01,9,September,2014,,Canada,Paseo
+Government,1056.0,10,10560.0,2014-09-01,9,September,2014,,United States of America,Paseo
+Government,2646.0,120,26460.0,2013-09-01,9,September,2013,,Canada,Velo
+Government,1563.0,3,15630.0,2014-05-01,5,May,2014,,France,Carretera
+Government,1303.0,10,13030.0,2014-02-01,2,February,2014,,France,Paseo
+Government,1389.0,10,13890.0,2013-10-01,10,October,2013,,Canada,Paseo
+Government,1802.0,10,18020.0,2013-12-01,12,December,2013,,Canada,Paseo
+Government,2663.0,10,26630.0,2014-12-01,12,December,2014,,United States of America,Paseo
+Government,2832.0,120,28320.0,2014-08-01,8,August,2014,,United States of America,Velo
+Government,1579.0,120,15790.0,2014-08-01,8,August,2014,,France,Velo
+Government,1033.0,120,10330.0,2013-12-01,12,December,2013,,France,Velo
+Government,1389.0,250,13890.0,2013-10-01,10,October,2013,,Canada,VTT
+Government,1265.0,250,12650.0,2013-11-01,11,November,2013,,United States of America,VTT
+Government,2297.0,250,22970.0,2013-11-01,11,November,2013,,Germany,VTT
+Government,2663.0,250,26630.0,2014-12-01,12,December,2014,,United States of America,VTT
+Government,1117.5,3,11175.0,2014-01-01,1,January,2014,,United States of America,Carretera
+Government,1123.0,250,11230.0,2013-11-01,11,November,2013,,Mexico,VTT
+Government,1757.0,5,17570.0,2013-10-01,10,October,2013,,France,Montana
+Government,1757.0,10,17570.0,2013-10-01,10,October,2013,,France,Paseo
+Government,1001.0,120,10010.0,2014-08-01,8,August,2014,,Germany,Velo
+Government,1834.0,3,18340.0,2013-09-01,9,September,2013,,Mexico,Carretera
+Government,1976.0,5,19760.0,2014-10-01,10,October,2014,,France,Montana
+Government,1535.0,10,15350.0,2014-09-01,9,September,2014,,France,Paseo
+Government,609.0,120,6090.0,2014-08-01,8,August,2014,,Mexico,Velo
+Government,1976.0,120,19760.0,2014-10-01,10,October,2014,,France,Velo
+Government,1421.0,120,14210.0,2013-12-01,12,December,2013,,United States of America,Velo
+Government,588.0,120,5880.0,2013-12-01,12,December,2013,,Germany,Velo
+Government,1118.0,260,11180.0,2014-11-01,11,November,2014,,Canada,Amarilla
+Government,1282.0,5,12820.0,2014-06-01,6,June,2014,,United States of America,Montana
+Government,1282.0,260,12820.0,2014-06-01,6,June,2014,,United States of America,Amarilla
+Government,708.0,5,7080.0,2014-06-01,6,June,2014,,Canada,Montana
+Government,645.0,5,6450.0,2014-07-01,7,July,2014,,Germany,Montana
+Government,1366.0,10,13660.0,2014-06-01,6,June,2014,,Germany,Paseo
+Government,1934.0,10,19340.0,2014-09-01,9,September,2014,,Germany,Paseo
+Government,2993.0,10,29930.0,2014-09-01,9,September,2014,,Mexico,Paseo
+Government,708.0,260,7080.0,2014-06-01,6,June,2014,,Canada,Amarilla
+Government,1366.0,260,13660.0,2014-06-01,6,June,2014,,Germany,Amarilla
+Government,1520.0,260,15200.0,2014-11-01,11,November,2014,,Germany,Amarilla
+Government,436.5,250,4365.0,2014-07-01,7,July,2014,,United States of America,VTT
+Government,1694.0,260,16940.0,2014-11-01,11,November,2014,,Mexico,Amarilla
+Government,663.0,3,6630.0,2014-05-01,5,May,2014,,Germany,Carretera
+Government,973.0,10,9730.0,2014-03-01,3,March,2014,,United States of America,Paseo
+Government,1038.0,10,10380.0,2014-06-01,6,June,2014,,Mexico,Paseo
+Government,2682.0,250,26820.0,2013-11-01,11,November,2013,,France,VTT
+Government,1038.0,260,10380.0,2014-06-01,6,June,2014,,Mexico,Amarilla
+Government,1954.0,10,19540.0,2014-03-01,3,March,2014,,France,Paseo
+Government,241.0,10,2410.0,2014-10-01,10,October,2014,,Germany,Paseo
+Government,241.0,120,2410.0,2014-10-01,10,October,2014,,Germany,Velo
+Government,2039.0,260,20390.0,2014-05-01,5,May,2014,,Mexico,Amarilla
+Government,2992.0,5,29920.0,2013-10-01,10,October,2013,,Germany,Montana
+Government,1122.0,10,11220.0,2014-03-01,3,March,2014,,Mexico,Paseo
+Government,2394.0,10,23940.0,2014-08-01,8,August,2014,,Canada,Paseo
+Government,2992.0,10,29920.0,2013-10-01,10,October,2013,,Germany,Paseo
+Government,2805.0,120,28050.0,2013-09-01,9,September,2013,,France,Velo
+Government,2935.0,250,29350.0,2013-11-01,11,November,2013,,Canada,VTT
+Government,2629.0,260,26290.0,2014-01-01,1,January,2014,,Mexico,Amarilla
+Government,1715.0,5,17150.0,2013-10-01,10,October,2013,,Mexico,Montana
+Government,905.0,10,9050.0,2014-10-01,10,October,2014,,Mexico,Paseo
+Government,1715.0,10,17150.0,2013-10-01,10,October,2013,,Mexico,Paseo
+Government,1233.0,10,12330.0,2014-12-01,12,December,2014,,Mexico,Paseo
+Government,905.0,120,9050.0,2014-10-01,10,October,2014,,Mexico,Velo
+Government,1233.0,250,12330.0,2014-12-01,12,December,2014,,Mexico,VTT
+Government,2521.5,3,25215.0,2014-01-01,1,January,2014,,France,Carretera
+Government,1531.0,10,15310.0,2014-12-01,12,December,2014,,Germany,Paseo
+Government,1531.0,250,15310.0,2014-12-01,12,December,2014,,Germany,VTT
+Government,442.0,3,4420.0,2013-09-01,9,September,2013,,Germany,Carretera
+Government,2255.0,5,22550.0,2014-07-01,7,July,2014,,Mexico,Montana
+Government,1249.0,5,12490.0,2014-10-01,10,October,2014,,Canada,Montana
+Government,2641.0,10,26410.0,2014-02-01,2,February,2014,,United States of America,Paseo
+Government,2708.0,10,27080.0,2014-02-01,2,February,2014,,Germany,Paseo
+Government,1249.0,10,12490.0,2014-10-01,10,October,2014,,Canada,Paseo
+Government,2579.0,3,25790.0,2014-04-01,4,April,2014,,Mexico,Carretera
+Government,1743.0,3,17430.0,2014-05-01,5,May,2014,,United States of America,Carretera
+Government,2428.0,10,24280.0,2014-03-01,3,March,2014,,Canada,Paseo
+Government,260.0,10,2600.0,2014-02-01,2,February,2014,,Mexico,Paseo
+Government,606.0,120,6060.0,2014-04-01,4,April,2014,,United States of America,Velo
+Government,1158.0,10,11580.0,2014-03-01,3,March,2014,,Germany,Paseo
+Government,267.0,10,2670.0,2013-10-01,10,October,2013,,United States of America,Paseo
+Government,293.0,10,2930.0,2014-12-01,12,December,2014,,France,Paseo
+Government,865.5,250,8655.0,2014-07-01,7,July,2014,,Canada,VTT
+Government,267.0,250,2670.0,2013-10-01,10,October,2013,,United States of America,VTT
+Government,293.0,250,2930.0,2014-12-01,12,December,2014,,France,VTT
+Government,2146.0,5,10730.0,2014-09-01,9,September,2014,,Germany,Montana
+Government,883.0,10,4415.0,2014-08-01,8,August,2014,,Mexico,Paseo
+Government,1143.0,10,5715.0,2014-10-01,10,October,2014,,United States of America,Paseo
+Government,1493.0,120,7465.0,2014-01-01,1,January,2014,,Mexico,Velo
+Government,1686.0,260,8430.0,2014-07-01,7,July,2014,,Germany,Amarilla
+Government,1143.0,260,5715.0,2014-10-01,10,October,2014,,United States of America,Amarilla
+Government,3945.0,10,19725.0,2014-01-01,1,January,2014,,France,Paseo
+Government,1030.0,10,5150.0,2014-05-01,5,May,2014,,France,Paseo
+Government,639.0,120,3195.0,2014-11-01,11,November,2014,,France,Velo
+Government,1326.0,250,6630.0,2014-03-01,3,March,2014,,Canada,VTT
+Government,2529.0,3,12645.0,2014-07-01,7,July,2014,,United States of America,Carretera
+Government,1830.0,5,9150.0,2014-08-01,8,August,2014,,Canada,Montana
+Government,4492.5,10,22462.5,2014-04-01,4,April,2014,,United States of America,Paseo
+Government,362.0,120,1810.0,2014-05-01,5,May,2014,,Mexico,Velo
+Government,2092.0,120,10460.0,2013-11-01,11,November,2013,,Canada,Velo
+Government,263.0,250,1315.0,2014-03-01,3,March,2014,,Germany,VTT
+Government,2145.0,3,10725.0,2013-11-01,11,November,2013,,France,Carretera
+Government,2013.0,10,10065.0,2013-12-01,12,December,2013,,United States of America,Paseo
+Government,1958.0,5,9790.0,2014-02-01,2,February,2014,,Germany,Montana
+Government,544.0,5,2720.0,2014-09-01,9,September,2014,,France,Montana
+Government,1760.0,10,8800.0,2013-09-01,9,September,2013,,Mexico,Paseo
+Government,2851.0,3,14255.0,2013-10-01,10,October,2013,,Canada,Carretera
+Government,2851.0,5,14255.0,2013-10-01,10,October,2013,,Canada,Montana
+Government,4251.0,10,21255.0,2014-01-01,1,January,2014,,Canada,Paseo
+Government,1159.0,5,5795.0,2013-10-01,10,October,2013,,Germany,Montana
+Government,1372.0,10,6860.0,2014-01-01,1,January,2014,,Germany,Paseo
+Government,2349.0,10,11745.0,2013-09-01,9,September,2013,,Canada,Paseo
+Government,2689.0,10,13445.0,2014-10-01,10,October,2014,,Mexico,Paseo
+Government,2689.0,250,13445.0,2014-10-01,10,October,2014,,Mexico,VTT
+Government,1683.0,260,8415.0,2014-07-01,7,July,2014,,Mexico,Amarilla
+Government,1159.0,260,5795.0,2013-10-01,10,October,2013,,Germany,Amarilla
+Government,1016.0,3,5080.0,2013-11-01,11,November,2013,,Germany,Carretera
+Government,570.0,3,2850.0,2014-12-01,12,December,2014,,United States of America,Carretera
+Government,2487.0,3,12435.0,2014-12-01,12,December,2014,,France,Carretera
+Government,2327.0,10,11635.0,2014-05-01,5,May,2014,,United States of America,Paseo
+Government,2136.0,10,10680.0,2013-12-01,12,December,2013,,France,Paseo
+Government,570.0,250,2850.0,2014-12-01,12,December,2014,,United States of America,VTT
+Government,2487.0,250,12435.0,2014-12-01,12,December,2014,,France,VTT
+Government,263.0,3,1315.0,2013-11-01,11,November,2013,,United States of America,Carretera
+Government,1403.0,5,7015.0,2013-10-01,10,October,2013,,France,Montana
+Government,1498.0,120,7490.0,2014-06-01,6,June,2014,,Mexico,Velo
+Government,1498.0,250,7490.0,2014-06-01,6,June,2014,,Mexico,VTT
+Government,1403.0,260,7015.0,2013-10-01,10,October,2013,,France,Amarilla
+Government,1333.0,120,6665.0,2014-11-01,11,November,2014,,Mexico,Velo
+Government,1031.0,10,5155.0,2013-09-01,9,September,2013,,France,Paseo
+Government,1135.0,120,5675.0,2014-06-01,6,June,2014,,Canada,Velo
+Government,547.0,120,2735.0,2014-11-01,11,November,2014,,United States of America,Velo
+Government,1582.0,120,7910.0,2014-12-01,12,December,2014,,Canada,Velo
+Government,1582.0,250,7910.0,2014-12-01,12,December,2014,,Canada,VTT
+Government,1135.0,260,5675.0,2014-06-01,6,June,2014,,Canada,Amarilla
+Government,2125.0,10,10625.0,2013-12-01,12,December,2013,,Germany,Paseo
+Government,488.0,5,2440.0,2014-02-01,2,February,2014,,Canada,Montana
+Government,257.0,10,1285.0,2014-05-01,5,May,2014,,Canada,Paseo
+Government,1259.0,10,6295.0,2014-04-01,4,April,2014,,Germany,Paseo
+Government,1095.0,10,5475.0,2014-05-01,5,May,2014,,Germany,Paseo
+Government,678.0,10,3390.0,2014-08-01,8,August,2014,,United States of America,Paseo
+Government,1598.0,10,7990.0,2014-08-01,8,August,2014,,Germany,Paseo
+Government,2409.0,10,12045.0,2013-09-01,9,September,2013,,Germany,Paseo
+Government,1946.0,10,9730.0,2013-12-01,12,December,2013,,Mexico,Paseo
+Government,2907.0,120,14535.0,2014-06-01,6,June,2014,,United States of America,Velo
+Government,2338.0,120,11690.0,2014-06-01,6,June,2014,,Germany,Velo
+Government,2338.0,250,11690.0,2014-06-01,6,June,2014,,Germany,VTT
+Government,2907.0,260,14535.0,2014-06-01,6,June,2014,,United States of America,Amarilla
+Government,1611.0,5,8055.0,2013-12-01,12,December,2013,,Canada,Montana
+Government,819.0,3,4095.0,2014-07-01,7,July,2014,,Canada,Carretera
+Government,521.0,3,2605.0,2014-12-01,12,December,2014,,Mexico,Carretera
+Government,360.0,10,1800.0,2014-10-01,10,October,2014,,Germany,Paseo
+Government,360.0,250,1800.0,2014-10-01,10,October,2014,,Germany,VTT
+Government,521.0,250,2605.0,2014-12-01,12,December,2014,,Mexico,VTT
+Government,2328.0,5,11640.0,2014-09-01,9,September,2014,,United States of America,Montana
+Government,2665.0,120,13325.0,2014-11-01,11,November,2014,,Germany,Velo
+Government,2532.0,10,12660.0,2014-04-01,4,April,2014,,France,Paseo
+Government,1579.0,250,7895.0,2014-03-01,3,March,2014,,United States of America,VTT
+Government,2706.0,3,13530.0,2013-11-01,11,November,2013,,Mexico,Carretera
+Government,1808.0,120,9040.0,2014-11-01,11,November,2014,,Canada,Velo
+Government,380.0,10,1900.0,2013-09-01,9,September,2013,,United States of America,Paseo
+Government,2420.0,5,12100.0,2014-09-01,9,September,2014,,Mexico,Montana
+Government,2734.0,5,13670.0,2014-10-01,10,October,2014,,Canada,Montana
+Government,3421.5,260,17107.5,2014-07-01,7,July,2014,,France,Amarilla
+Government,2734.0,260,13670.0,2014-10-01,10,October,2014,,Canada,Amarilla
+Government,1491.0,250,7455.0,2014-03-01,3,March,2014,,France,VTT
+Government,1298.0,5,6490.0,2014-02-01,2,February,2014,,United States of America,Montana
+Government,1438.5,10,7192.5,2014-01-01,1,January,2014,,United States of America,Paseo
+Government,2696.0,10,13480.0,2014-08-01,8,August,2014,,France,Paseo
+Government,1190.0,120,5950.0,2014-06-01,6,June,2014,,France,Velo
+Government,1190.0,260,5950.0,2014-06-01,6,June,2014,,France,Amarilla
+Government,2996.0,3,14980.0,2013-10-01,10,October,2013,,United States of America,Carretera
+Government,280.0,3,1400.0,2014-12-01,12,December,2014,,Germany,Carretera
+Government,293.0,5,1465.0,2014-02-01,2,February,2014,,France,Montana
+Government,2996.0,5,14980.0,2013-10-01,10,October,2013,,United States of America,Montana
+Government,280.0,250,1400.0,2014-12-01,12,December,2014,,Germany,VTT
+Government,388.0,5,1940.0,2014-09-01,9,September,2014,,Canada,Montana
+Government,1727.0,5,8635.0,2013-10-01,10,October,2013,,Mexico,Montana
+Government,1731.0,10,8655.0,2014-10-01,10,October,2014,,France,Paseo
+Government,2903.0,250,14515.0,2014-03-01,3,March,2014,,Mexico,VTT
+Government,1731.0,260,8655.0,2014-10-01,10,October,2014,,France,Amarilla
+Government,1727.0,260,8635.0,2013-10-01,10,October,2013,,Mexico,Amarilla
+Government,2535.0,10,12675.0,2014-04-01,4,April,2014,,Mexico,Paseo
+Government,1368.0,5,6840.0,2014-02-01,2,February,2014,,Mexico,Montana
+Government,723.0,10,3615.0,2014-04-01,4,April,2014,,Canada,Paseo
+Midmarket,2178.0,3,21780.0,2014-06-01,6,June,2014,,France,Carretera
+Midmarket,888.0,3,8880.0,2014-06-01,6,June,2014,,Germany,Carretera
+Midmarket,2470.0,3,24700.0,2014-06-01,6,June,2014,,Mexico,Carretera
+Midmarket,921.0,5,9210.0,2014-03-01,3,March,2014,,Germany,Montana
+Channel Partners,2518.0,5,7554.0,2014-06-01,6,June,2014,,Canada,Montana
+Channel Partners,1545.0,5,4635.0,2014-06-01,6,June,2014,,Germany,Montana
+Midmarket,2470.0,5,24700.0,2014-06-01,6,June,2014,,Mexico,Montana
+Enterprise,2665.5,5,319860.0,2014-07-01,7,July,2014,,Canada,Montana
+Small Business,958.0,5,239500.0,2014-08-01,8,August,2014,,Mexico,Montana
+Enterprise,345.0,5,41400.0,2013-10-01,10,October,2013,,Canada,Montana
+Midmarket,615.0,5,6150.0,2014-12-01,12,December,2014,,United States of America,Montana
+Enterprise,1804.0,120,216480.0,2014-02-01,2,February,2014,,France,Velo
+Channel Partners,2161.0,120,6483.0,2014-03-01,3,March,2014,,Germany,Velo
+Channel Partners,1545.0,120,4635.0,2014-06-01,6,June,2014,,Germany,Velo
+Enterprise,2821.0,120,338520.0,2014-08-01,8,August,2014,,United States of America,Velo
+Enterprise,345.0,120,41400.0,2013-10-01,10,October,2013,,Canada,Velo
+Small Business,2001.0,250,500250.0,2014-02-01,2,February,2014,,Canada,VTT
+Channel Partners,2838.0,250,8514.0,2014-04-01,4,April,2014,,Germany,VTT
+Midmarket,2178.0,250,21780.0,2014-06-01,6,June,2014,,France,VTT
+Midmarket,888.0,250,8880.0,2014-06-01,6,June,2014,,Germany,VTT
+Small Business,2151.0,250,537750.0,2014-09-01,9,September,2014,,France,VTT
+Channel Partners,1953.0,260,5859.0,2014-04-01,4,April,2014,,United States of America,Amarilla
+Enterprise,4219.5,260,506340.0,2014-04-01,4,April,2014,,Germany,Amarilla
+Channel Partners,2141.0,260,6423.0,2014-08-01,8,August,2014,,United States of America,Amarilla
+Midmarket,615.0,260,6150.0,2014-12-01,12,December,2014,,United States of America,Amarilla
+Channel Partners,1858.0,3,5574.0,2014-02-01,2,February,2014,,United States of America,Carretera
+Channel Partners,1445.0,3,4335.0,2014-09-01,9,September,2014,,Canada,Carretera
+Enterprise,330.0,3,39600.0,2013-09-01,9,September,2013,,United States of America,Carretera
+Channel Partners,2671.0,3,8013.0,2014-09-01,9,September,2014,,France,Carretera
+Channel Partners,766.0,3,2298.0,2013-10-01,10,October,2013,,Germany,Carretera
+Small Business,494.0,3,123500.0,2013-10-01,10,October,2013,,Mexico,Carretera
+Midmarket,2214.0,5,22140.0,2014-03-01,3,March,2014,,Mexico,Montana
+Small Business,2301.0,5,575250.0,2014-04-01,4,April,2014,,United States of America,Montana
+Small Business,2498.0,5,624500.0,2013-09-01,9,September,2013,,United States of America,Montana
+Enterprise,663.0,5,79560.0,2013-10-01,10,October,2013,,United States of America,Montana
+Enterprise,923.0,120,110760.0,2014-08-01,8,August,2014,,Canada,Velo
+Enterprise,663.0,120,79560.0,2013-10-01,10,October,2013,,United States of America,Velo
+Enterprise,727.0,250,87240.0,2014-06-01,6,June,2014,,United States of America,VTT
+Enterprise,787.0,250,94440.0,2014-06-01,6,June,2014,,France,VTT
+Small Business,986.0,250,246500.0,2014-09-01,9,September,2014,,Germany,VTT
+Small Business,494.0,250,123500.0,2013-10-01,10,October,2013,,Mexico,VTT
+Enterprise,1744.0,250,209280.0,2014-11-01,11,November,2014,,France,VTT
+Channel Partners,1989.0,260,5967.0,2013-09-01,9,September,2013,,United States of America,Amarilla
+Midmarket,321.0,260,3210.0,2013-11-01,11,November,2013,,France,Amarilla
+Enterprise,742.5,3,89100.0,2014-04-01,4,April,2014,,Canada,Carretera
+Channel Partners,1295.0,3,3885.0,2014-10-01,10,October,2014,,Canada,Carretera
+Small Business,214.0,3,53500.0,2013-10-01,10,October,2013,,Germany,Carretera
+Channel Partners,1142.0,5,3426.0,2014-06-01,6,June,2014,,United States of America,Montana
+Channel Partners,690.0,5,2070.0,2014-11-01,11,November,2014,,Mexico,Montana
+Enterprise,1660.0,5,199200.0,2013-11-01,11,November,2013,,Mexico,Montana
+Enterprise,809.0,120,97080.0,2013-10-01,10,October,2013,,Germany,Velo
+Enterprise,2145.0,120,257400.0,2013-10-01,10,October,2013,,Mexico,Velo
+Channel Partners,1055.0,120,3165.0,2014-12-01,12,December,2014,,France,Velo
+Channel Partners,1084.0,120,3252.0,2014-12-01,12,December,2014,,Mexico,Velo
+Enterprise,662.0,250,79440.0,2014-06-01,6,June,2014,,Mexico,VTT
+Small Business,214.0,250,53500.0,2013-10-01,10,October,2013,,Germany,VTT
+Enterprise,2729.0,250,327480.0,2014-12-01,12,December,2014,,Canada,VTT
+Small Business,259.0,260,64750.0,2014-03-01,3,March,2014,,Germany,Amarilla
+Small Business,1101.0,260,275250.0,2014-03-01,3,March,2014,,Mexico,Amarilla
+Enterprise,2276.0,260,273120.0,2014-05-01,5,May,2014,,Germany,Amarilla
+Small Business,1916.0,260,479000.0,2014-12-01,12,December,2014,,Canada,Amarilla
+Enterprise,4243.5,3,509220.0,2014-04-01,4,April,2014,,France,Carretera
+Small Business,689.0,3,172250.0,2014-06-01,6,June,2014,,Germany,Carretera
+Channel Partners,1947.0,3,5841.0,2014-09-01,9,September,2014,,United States of America,Carretera
+Channel Partners,908.0,3,2724.0,2013-12-01,12,December,2013,,Canada,Carretera
+Channel Partners,1901.0,5,5703.0,2014-06-01,6,June,2014,,France,Montana
+Enterprise,1287.0,5,154440.0,2014-12-01,12,December,2014,,France,Montana
+Enterprise,1706.0,5,204720.0,2014-12-01,12,December,2014,,Germany,Montana
+Enterprise,2009.0,120,241080.0,2014-10-01,10,October,2014,,Canada,Velo
+Small Business,2844.0,250,711000.0,2014-02-01,2,February,2014,,United States of America,VTT
+Channel Partners,1916.0,250,5748.0,2014-04-01,4,April,2014,,Mexico,VTT
+Enterprise,1570.0,250,188400.0,2014-06-01,6,June,2014,,Germany,VTT
+Small Business,1874.0,250,468500.0,2014-08-01,8,August,2014,,Canada,VTT
+Midmarket,1945.0,250,19450.0,2013-10-01,10,October,2013,,Germany,VTT
+Channel Partners,2479.0,250,7437.0,2014-01-01,1,January,2014,,Germany,VTT
+Midmarket,2031.0,5,20310.0,2014-10-01,10,October,2014,,Mexico,Montana
+Small Business,2021.0,3,505250.0,2014-10-01,10,October,2014,,Germany,Carretera
+Midmarket,1967.0,5,19670.0,2014-03-01,3,March,2014,,Canada,Montana
+Small Business,1859.0,5,464750.0,2014-08-01,8,August,2014,,Germany,Montana
+Small Business,2021.0,5,505250.0,2014-10-01,10,October,2014,,Germany,Montana
+Enterprise,1138.0,5,136560.0,2014-12-01,12,December,2014,,Mexico,Montana
+Channel Partners,1465.0,120,4395.0,2014-03-01,3,March,2014,,United States of America,Velo
+Channel Partners,866.0,250,2598.0,2014-05-01,5,May,2014,,France,VTT
+Midmarket,1514.0,250,15140.0,2013-10-01,10,October,2013,,Mexico,VTT
+Enterprise,1074.0,260,128880.0,2014-04-01,4,April,2014,,Mexico,Amarilla
+Midmarket,671.0,260,6710.0,2013-10-01,10,October,2013,,United States of America,Amarilla
+Channel Partners,2431.0,120,7293.0,2014-12-01,12,December,2014,,Canada,Velo
+Channel Partners,1123.0,260,3369.0,2014-08-01,8,August,2014,,Mexico,Amarilla
+Channel Partners,1865.0,3,5595.0,2014-02-01,2,February,2014,,France,Carretera
+Channel Partners,1116.0,3,3348.0,2014-02-01,2,February,2014,,Germany,Carretera
+Small Business,991.0,3,247750.0,2014-06-01,6,June,2014,,United States of America,Carretera
+Midmarket,2791.0,3,27910.0,2014-11-01,11,November,2014,,Mexico,Carretera
+Enterprise,3627.0,5,435240.0,2014-07-01,7,July,2014,,United States of America,Montana
+Channel Partners,2342.0,5,7026.0,2014-11-01,11,November,2014,,Germany,Montana
+Small Business,1100.0,5,275000.0,2013-12-01,12,December,2013,,Mexico,Montana
+Midmarket,555.0,120,5550.0,2014-01-01,1,January,2014,,United States of America,Velo
+Midmarket,2861.0,120,28610.0,2014-01-01,1,January,2014,,Mexico,Velo
+Enterprise,807.0,120,96840.0,2014-02-01,2,February,2014,,Germany,Velo
+Enterprise,861.0,120,103320.0,2014-10-01,10,October,2014,,United States of America,Velo
+Enterprise,704.0,120,84480.0,2013-10-01,10,October,2013,,France,Velo
+Small Business,1250.0,120,312500.0,2014-12-01,12,December,2014,,Germany,Velo
+Small Business,1250.0,260,312500.0,2014-12-01,12,December,2014,,Germany,Amarilla
+Midmarket,2844.0,3,28440.0,2014-06-01,6,June,2014,,Canada,Carretera
+Channel Partners,562.0,3,1686.0,2014-09-01,9,September,2014,,Mexico,Carretera
+Channel Partners,2299.0,3,6897.0,2013-10-01,10,October,2013,,Canada,Carretera
+Midmarket,2030.0,3,20300.0,2014-11-01,11,November,2014,,United States of America,Carretera
+Enterprise,887.0,3,106440.0,2013-12-01,12,December,2013,,Germany,Carretera
+Channel Partners,2723.0,5,8169.0,2014-11-01,11,November,2014,,United States of America,Montana
+Enterprise,952.0,120,114240.0,2014-02-01,2,February,2014,,Canada,Velo
+Enterprise,2755.0,120,330600.0,2014-02-01,2,February,2014,,United States of America,Velo
+Midmarket,1530.0,120,15300.0,2014-05-01,5,May,2014,,Germany,Velo
+Small Business,1221.0,120,305250.0,2013-10-01,10,October,2013,,France,Velo
+Midmarket,2844.0,250,28440.0,2014-06-01,6,June,2014,,Canada,VTT
+Small Business,1221.0,250,305250.0,2013-10-01,10,October,2013,,France,VTT
+Small Business,2436.0,250,609000.0,2013-12-01,12,December,2013,,Canada,VTT
+Enterprise,1987.5,260,238500.0,2014-01-01,1,January,2014,,France,Amarilla
+Midmarket,1153.0,250,11530.0,2014-10-01,10,October,2014,,United States of America,VTT
+Channel Partners,727.0,3,2181.0,2014-02-01,2,February,2014,,Mexico,Carretera
+Channel Partners,1884.0,3,5652.0,2014-08-01,8,August,2014,,Canada,Carretera
+Channel Partners,2340.0,5,7020.0,2014-01-01,1,January,2014,,Mexico,Montana
+Channel Partners,2342.0,5,7026.0,2014-11-01,11,November,2014,,France,Montana
+Midmarket,1262.0,120,12620.0,2014-05-01,5,May,2014,,Canada,Velo
+Channel Partners,1738.5,250,5215.5,2014-04-01,4,April,2014,,France,VTT
+Channel Partners,2215.0,250,6645.0,2013-09-01,9,September,2013,,Germany,VTT
+Small Business,448.0,3,112000.0,2014-06-01,6,June,2014,,France,Carretera
+Small Business,2181.0,3,545250.0,2014-10-01,10,October,2014,,France,Carretera
+Small Business,2181.0,5,545250.0,2014-10-01,10,October,2014,,France,Montana
+Enterprise,2500.0,5,300000.0,2013-11-01,11,November,2013,,Germany,Montana
+Small Business,1659.0,120,414750.0,2014-07-01,7,July,2014,,France,Velo
+Enterprise,2087.0,120,250440.0,2014-09-01,9,September,2014,,Germany,Velo
+Small Business,1372.0,120,343000.0,2014-12-01,12,December,2014,,United States of America,Velo
+Channel Partners,3244.5,250,9733.5,2014-01-01,1,January,2014,,Canada,VTT
+Small Business,959.0,250,239750.0,2014-02-01,2,February,2014,,France,VTT
+Small Business,2747.0,250,686750.0,2014-02-01,2,February,2014,,Mexico,VTT
+Enterprise,1645.0,260,197400.0,2014-05-01,5,May,2014,,Canada,Amarilla
+Enterprise,994.0,260,119280.0,2013-09-01,9,September,2013,,Germany,Amarilla
+Small Business,1372.0,260,343000.0,2014-12-01,12,December,2014,,United States of America,Amarilla
+Enterprise,1540.0,3,184800.0,2014-08-01,8,August,2014,,Mexico,Carretera
+Midmarket,490.0,3,4900.0,2014-11-01,11,November,2014,,France,Carretera
+Midmarket,2501.0,5,25010.0,2014-03-01,3,March,2014,,France,Montana
+Small Business,1562.0,5,390500.0,2014-08-01,8,August,2014,,France,Montana
+Small Business,1283.0,5,320750.0,2013-09-01,9,September,2013,,Canada,Montana
+Midmarket,711.0,5,7110.0,2014-12-01,12,December,2014,,Germany,Montana
+Channel Partners,598.0,120,1794.0,2014-03-01,3,March,2014,,Canada,Velo
+Small Business,386.0,120,96500.0,2013-11-01,11,November,2013,,France,Velo
+Small Business,635.0,120,158750.0,2014-12-01,12,December,2014,,Mexico,Velo
+Small Business,2134.0,250,533500.0,2014-09-01,9,September,2014,,Canada,VTT
+Small Business,808.0,250,202000.0,2013-12-01,12,December,2013,,United States of America,VTT
+Small Business,2460.0,260,615000.0,2014-06-01,6,June,2014,,Mexico,Amarilla
+Midmarket,711.0,260,7110.0,2014-12-01,12,December,2014,,Germany,Amarilla
+Channel Partners,1375.0,260,4125.0,2013-12-01,12,December,2013,,Mexico,Amarilla
+Small Business,635.0,260,158750.0,2014-12-01,12,December,2014,,Mexico,Amarilla
+Small Business,1094.0,3,273500.0,2014-06-01,6,June,2014,,Canada,Carretera
+Channel Partners,367.0,3,1101.0,2013-10-01,10,October,2013,,Mexico,Carretera
+Small Business,3802.5,5,950625.0,2014-04-01,4,April,2014,,Canada,Montana
+Small Business,322.0,5,80500.0,2013-09-01,9,September,2013,,France,Montana
+Channel Partners,2321.0,5,6963.0,2014-11-01,11,November,2014,,Canada,Montana
+Enterprise,1857.0,5,222840.0,2013-11-01,11,November,2013,,France,Montana
+Enterprise,2797.0,5,335640.0,2014-12-01,12,December,2014,,United States of America,Montana
+Small Business,334.0,5,83500.0,2013-12-01,12,December,2013,,Germany,Montana
+Midmarket,245.0,120,2450.0,2014-05-01,5,May,2014,,Mexico,Velo
+Small Business,3793.5,120,948375.0,2014-07-01,7,July,2014,,Canada,Velo
+Enterprise,567.0,120,68040.0,2014-09-01,9,September,2014,,Canada,Velo
+Enterprise,2110.0,120,253200.0,2014-09-01,9,September,2014,,Mexico,Velo
+Channel Partners,1956.0,250,5868.0,2014-01-01,1,January,2014,,United States of America,VTT
+Small Business,2659.0,250,664750.0,2014-02-01,2,February,2014,,Germany,VTT
+Channel Partners,880.0,250,2640.0,2014-05-01,5,May,2014,,Germany,VTT
+Small Business,1867.0,250,466750.0,2014-09-01,9,September,2014,,United States of America,VTT
+Channel Partners,2234.0,250,6702.0,2013-09-01,9,September,2013,,France,VTT
+Midmarket,1227.0,250,12270.0,2014-10-01,10,October,2014,,France,VTT
+Enterprise,877.0,250,105240.0,2014-11-01,11,November,2014,,Mexico,VTT
+Midmarket,970.0,260,9700.0,2013-11-01,11,November,2013,,Germany,Amarilla
+Channel Partners,1580.0,3,4740.0,2014-09-01,9,September,2014,,Germany,Carretera
+Channel Partners,1967.0,120,5901.0,2014-03-01,3,March,2014,,France,Velo
+Midmarket,2628.0,120,26280.0,2014-04-01,4,April,2014,,Mexico,Velo
+Midmarket,1630.5,260,16305.0,2014-07-01,7,July,2014,,Canada,Amarilla
+Channel Partners,306.0,260,918.0,2013-12-01,12,December,2013,,France,Amarilla
+Channel Partners,386.0,3,1158.0,2013-10-01,10,October,2013,,United States of America,Carretera
+Enterprise,3445.5,3,413460.0,2014-04-01,4,April,2014,,United States of America,Carretera
+Enterprise,1482.0,3,177840.0,2013-12-01,12,December,2013,,France,Carretera
+Enterprise,1804.0,5,216480.0,2013-11-01,11,November,2013,,United States of America,Montana
+Midmarket,2072.0,5,20720.0,2014-12-01,12,December,2014,,France,Montana
+Midmarket,681.0,120,6810.0,2014-01-01,1,January,2014,,Germany,Velo
+Midmarket,510.0,120,5100.0,2014-04-01,4,April,2014,,Germany,Velo
+Midmarket,790.0,120,7900.0,2014-05-01,5,May,2014,,United States of America,Velo
+Enterprise,1596.0,120,191520.0,2014-09-01,9,September,2014,,United States of America,Velo
+Small Business,2294.0,120,573500.0,2013-10-01,10,October,2013,,United States of America,Velo
+Enterprise,1916.0,120,229920.0,2013-12-01,12,December,2013,,Canada,Velo
+Small Business,853.0,120,213250.0,2014-12-01,12,December,2014,,France,Velo
+Enterprise,341.0,250,40920.0,2014-05-01,5,May,2014,,Mexico,VTT
+Midmarket,641.0,250,6410.0,2014-07-01,7,July,2014,,Mexico,VTT
+Small Business,432.0,250,108000.0,2014-09-01,9,September,2014,,Mexico,VTT
+Small Business,2294.0,250,573500.0,2013-10-01,10,October,2013,,United States of America,VTT
+Midmarket,2167.0,250,21670.0,2013-10-01,10,October,2013,,France,VTT
+Enterprise,2529.0,250,303480.0,2014-11-01,11,November,2014,,Canada,VTT
+Enterprise,579.0,260,69480.0,2014-01-01,1,January,2014,,United States of America,Amarilla
+Small Business,2993.0,260,748250.0,2014-03-01,3,March,2014,,United States of America,Amarilla
+Channel Partners,3520.5,260,10561.5,2014-04-01,4,April,2014,,Canada,Amarilla
+Channel Partners,2574.0,260,7722.0,2014-08-01,8,August,2014,,Germany,Amarilla
+Midmarket,2072.0,260,20720.0,2014-12-01,12,December,2014,,France,Amarilla
+Small Business,853.0,260,213250.0,2014-12-01,12,December,2014,,France,Amarilla
+Channel Partners,1198.0,3,3594.0,2013-10-01,10,October,2013,,France,Carretera
+Midmarket,384.0,120,3840.0,2014-01-01,1,January,2014,,Canada,Velo
+Channel Partners,472.0,120,1416.0,2014-10-01,10,October,2014,,Germany,Velo
+Channel Partners,1005.0,250,3015.0,2013-09-01,9,September,2013,,Mexico,VTT
+Midmarket,3199.5,260,31995.0,2014-07-01,7,July,2014,,United States of America,Amarilla
+Channel Partners,472.0,260,1416.0,2014-10-01,10,October,2014,,Germany,Amarilla
+Channel Partners,1937.0,3,5811.0,2014-02-01,2,February,2014,,Canada,Carretera
+Small Business,2811.0,3,702750.0,2014-07-01,7,July,2014,,Germany,Carretera
+Enterprise,2441.0,3,292920.0,2014-10-01,10,October,2014,,France,Carretera
+Midmarket,1560.0,3,15600.0,2013-11-01,11,November,2013,,Canada,Carretera
+Midmarket,2157.0,5,21570.0,2014-12-01,12,December,2014,,Mexico,Montana
+Midmarket,655.0,120,6550.0,2013-09-01,9,September,2013,,Mexico,Velo
+Channel Partners,1734.0,250,5202.0,2014-01-01,1,January,2014,,France,VTT
+Enterprise,554.0,250,66480.0,2014-01-01,1,January,2014,,Mexico,VTT
+Enterprise,3165.0,260,379800.0,2014-01-01,1,January,2014,,Germany,Amarilla
+Enterprise,1433.0,260,171960.0,2014-05-01,5,May,2014,,France,Amarilla
+Enterprise,947.0,260,113640.0,2013-09-01,9,September,2013,,Mexico,Amarilla
+Midmarket,2157.0,260,21570.0,2014-12-01,12,December,2014,,Mexico,Amarilla
+Enterprise,2416.0,3,289920.0,2013-09-01,9,September,2013,,Canada,Carretera
+Enterprise,2156.0,3,258720.0,2014-10-01,10,October,2014,,Mexico,Carretera
+Midmarket,2689.0,3,26890.0,2014-11-01,11,November,2014,,Canada,Carretera
+Midmarket,677.0,5,6770.0,2014-03-01,3,March,2014,,United States of America,Montana
+Small Business,1773.0,5,443250.0,2014-04-01,4,April,2014,,France,Montana
+Small Business,1186.0,5,296500.0,2013-12-01,12,December,2013,,France,Montana
+Channel Partners,2109.0,250,6327.0,2014-05-01,5,May,2014,,Canada,VTT
+Midmarket,3874.5,250,38745.0,2014-07-01,7,July,2014,,France,VTT
+Enterprise,2387.0,250,286440.0,2014-11-01,11,November,2014,,United States of America,VTT
+Midmarket,2548.0,260,25480.0,2013-11-01,11,November,2013,,United States of America,Amarilla
+Channel Partners,2661.0,5,7983.0,2014-05-01,5,May,2014,,Mexico,Montana
+Channel Partners,2761.0,260,8283.0,2013-09-01,9,September,2013,,Canada,Amarilla
+Midmarket,2567.0,3,25670.0,2014-06-01,6,June,2014,,United States of America,Carretera
+Midmarket,2567.0,250,25670.0,2014-06-01,6,June,2014,,United States of America,VTT
+Channel Partners,604.0,5,1812.0,2014-06-01,6,June,2014,,Mexico,Montana
+Midmarket,3997.5,120,39975.0,2014-01-01,1,January,2014,,France,Velo
+Channel Partners,604.0,120,1812.0,2014-06-01,6,June,2014,,Mexico,Velo
+Midmarket,660.0,120,6600.0,2013-09-01,9,September,2013,,Germany,Velo
+Channel Partners,410.0,120,1230.0,2014-10-01,10,October,2014,,Mexico,Velo
+Small Business,2605.0,120,651250.0,2013-11-01,11,November,2013,,Mexico,Velo
+Channel Partners,1013.0,120,3039.0,2014-12-01,12,December,2014,,Germany,Velo
+Enterprise,1583.0,250,189960.0,2014-06-01,6,June,2014,,Canada,VTT
+Midmarket,1565.0,250,15650.0,2014-10-01,10,October,2014,,Canada,VTT
+Enterprise,1659.0,260,199080.0,2014-01-01,1,January,2014,,Canada,Amarilla
+Channel Partners,410.0,260,1230.0,2014-10-01,10,October,2014,,Mexico,Amarilla
+Channel Partners,1770.0,260,5310.0,2013-12-01,12,December,2013,,Germany,Amarilla
+Channel Partners,1393.0,260,4179.0,2014-10-01,10,October,2014,,France,Amarilla
+Channel Partners,2015.0,260,6045.0,2013-12-01,12,December,2013,,United States of America,Amarilla
+Small Business,801.0,3,200250.0,2014-07-01,7,July,2014,,Mexico,Carretera
+Enterprise,1023.0,3,122760.0,2013-09-01,9,September,2013,,France,Carretera
+Small Business,1496.0,3,374000.0,2014-10-01,10,October,2014,,Canada,Carretera
+Small Business,1010.0,3,252500.0,2014-10-01,10,October,2014,,United States of America,Carretera
+Midmarket,1513.0,3,15130.0,2014-11-01,11,November,2014,,Germany,Carretera
+Midmarket,2300.0,3,23000.0,2014-12-01,12,December,2014,,Canada,Carretera
+Enterprise,2821.0,3,338520.0,2013-12-01,12,December,2013,,Mexico,Carretera
+Midmarket,2300.0,5,23000.0,2014-12-01,12,December,2014,,Canada,Montana
+Enterprise,1575.0,120,189000.0,2014-02-01,2,February,2014,,Mexico,Velo
+Small Business,2460.0,120,615000.0,2014-07-01,7,July,2014,,United States of America,Velo
+Small Business,269.0,120,67250.0,2013-10-01,10,October,2013,,Canada,Velo
+Small Business,2536.0,120,634000.0,2013-11-01,11,November,2013,,Germany,Velo
+Small Business,2541.0,250,635250.0,2014-08-01,8,August,2014,,United States of America,VTT
+Small Business,269.0,250,67250.0,2013-10-01,10,October,2013,,Canada,VTT
+Small Business,1496.0,250,374000.0,2014-10-01,10,October,2014,,Canada,VTT
+Small Business,1010.0,250,252500.0,2014-10-01,10,October,2014,,United States of America,VTT
+Small Business,888.0,260,222000.0,2014-03-01,3,March,2014,,Canada,Amarilla
+Enterprise,2844.0,260,341280.0,2014-05-01,5,May,2014,,United States of America,Amarilla
+Channel Partners,2475.0,260,7425.0,2014-08-01,8,August,2014,,France,Amarilla
+Midmarket,1743.0,260,17430.0,2013-10-01,10,October,2013,,Canada,Amarilla
+Channel Partners,2914.0,260,8742.0,2014-10-01,10,October,2014,,United States of America,Amarilla
+Midmarket,1870.0,260,18700.0,2013-11-01,11,November,2013,,Mexico,Amarilla
+Enterprise,1174.0,3,140880.0,2014-08-01,8,August,2014,,France,Carretera
+Enterprise,2767.0,3,332040.0,2014-08-01,8,August,2014,,Germany,Carretera
+Enterprise,1085.0,3,130200.0,2014-10-01,10,October,2014,,Germany,Carretera
+Small Business,546.0,5,136500.0,2014-10-01,10,October,2014,,Mexico,Montana
+Channel Partners,500.0,120,1500.0,2014-03-01,3,March,2014,,Mexico,Velo
+Midmarket,2826.0,120,28260.0,2014-05-01,5,May,2014,,France,Velo
+Enterprise,663.0,120,79560.0,2014-09-01,9,September,2014,,France,Velo
+Small Business,2574.0,120,643500.0,2013-11-01,11,November,2013,,United States of America,Velo
+Enterprise,2438.0,120,292560.0,2013-12-01,12,December,2013,,United States of America,Velo
+Channel Partners,914.0,120,2742.0,2014-12-01,12,December,2014,,United States of America,Velo
+Midmarket,492.0,250,4920.0,2014-07-01,7,July,2014,,Germany,VTT
+Midmarket,1175.0,250,11750.0,2014-10-01,10,October,2014,,Germany,VTT
+Enterprise,2954.0,250,354480.0,2013-11-01,11,November,2013,,Canada,VTT
+Enterprise,552.0,250,66240.0,2014-11-01,11,November,2014,,Germany,VTT
+Small Business,2475.0,260,618750.0,2014-03-01,3,March,2014,,France,Amarilla
+Small Business,546.0,260,136500.0,2014-10-01,10,October,2014,,Mexico,Amarilla
+Channel Partners,1806.0,250,5418.0,2014-05-01,5,May,2014,,United States of America,VTT
+Midmarket,974.0,10,9740.0,2014-02-01,2,February,2014,,Mexico,Paseo
+Channel Partners,2518.0,10,7554.0,2014-06-01,6,June,2014,,Canada,Paseo
+Channel Partners,367.0,10,1101.0,2014-07-01,7,July,2014,,Germany,Paseo
+Midmarket,549.0,10,5490.0,2013-09-01,9,September,2013,,France,Paseo
+Small Business,788.0,10,197000.0,2013-09-01,9,September,2013,,Mexico,Paseo
+Midmarket,2472.0,10,24720.0,2014-09-01,9,September,2014,,Mexico,Paseo
+Channel Partners,912.0,10,2736.0,2013-11-01,11,November,2013,,United States of America,Paseo
+Midmarket,2152.0,10,21520.0,2013-12-01,12,December,2013,,Canada,Paseo
+Midmarket,2296.0,10,22960.0,2014-02-01,2,February,2014,,France,Paseo
+Midmarket,1514.0,10,15140.0,2014-02-01,2,February,2014,,United States of America,Paseo
+Enterprise,727.0,10,87240.0,2014-06-01,6,June,2014,,United States of America,Paseo
+Enterprise,787.0,10,94440.0,2014-06-01,6,June,2014,,France,Paseo
+Enterprise,1823.0,10,218760.0,2014-07-01,7,July,2014,,Mexico,Paseo
+Midmarket,747.0,10,7470.0,2014-09-01,9,September,2014,,Germany,Paseo
+Channel Partners,766.0,10,2298.0,2013-10-01,10,October,2013,,Germany,Paseo
+Small Business,2905.0,10,726250.0,2014-11-01,11,November,2014,,United States of America,Paseo
+Midmarket,2363.0,10,23630.0,2014-02-01,2,February,2014,,Canada,Paseo
+Small Business,918.0,10,229500.0,2014-05-01,5,May,2014,,France,Paseo
+Small Business,1728.0,10,432000.0,2014-05-01,5,May,2014,,Germany,Paseo
+Channel Partners,1142.0,10,3426.0,2014-06-01,6,June,2014,,United States of America,Paseo
+Enterprise,662.0,10,79440.0,2014-06-01,6,June,2014,,Mexico,Paseo
+Channel Partners,1295.0,10,3885.0,2014-10-01,10,October,2014,,Canada,Paseo
+Enterprise,809.0,10,97080.0,2013-10-01,10,October,2013,,Germany,Paseo
+Enterprise,2145.0,10,257400.0,2013-10-01,10,October,2013,,Mexico,Paseo
+Channel Partners,1785.0,10,5355.0,2013-11-01,11,November,2013,,France,Paseo
+Small Business,1916.0,10,479000.0,2014-12-01,12,December,2014,,Canada,Paseo
+Enterprise,2729.0,10,327480.0,2014-12-01,12,December,2014,,Canada,Paseo
+Midmarket,1925.0,10,19250.0,2013-12-01,12,December,2013,,United States of America,Paseo
+Channel Partners,1055.0,10,3165.0,2014-12-01,12,December,2014,,France,Paseo
+Channel Partners,1084.0,10,3252.0,2014-12-01,12,December,2014,,Mexico,Paseo
+Small Business,2434.5,10,608625.0,2014-01-01,1,January,2014,,France,Paseo
+Enterprise,1774.0,10,212880.0,2014-03-01,3,March,2014,,Canada,Paseo
+Channel Partners,1901.0,10,5703.0,2014-06-01,6,June,2014,,France,Paseo
+Small Business,689.0,10,172250.0,2014-06-01,6,June,2014,,Germany,Paseo
+Enterprise,1570.0,10,188400.0,2014-06-01,6,June,2014,,Germany,Paseo
+Channel Partners,1369.5,10,4108.5,2014-07-01,7,July,2014,,United States of America,Paseo
+Enterprise,2009.0,10,241080.0,2014-10-01,10,October,2014,,Canada,Paseo
+Midmarket,1945.0,10,19450.0,2013-10-01,10,October,2013,,Germany,Paseo
+Enterprise,1287.0,10,154440.0,2014-12-01,12,December,2014,,France,Paseo
+Enterprise,1706.0,10,204720.0,2014-12-01,12,December,2014,,Germany,Paseo
+Midmarket,2031.0,10,20310.0,2014-10-01,10,October,2014,,Mexico,Paseo
+Midmarket,2261.0,10,22610.0,2013-12-01,12,December,2013,,France,Paseo
+Enterprise,795.0,10,95400.0,2014-03-01,3,March,2014,,Germany,Paseo
+Small Business,1414.5,10,353625.0,2014-04-01,4,April,2014,,Germany,Paseo
+Small Business,2918.0,10,729500.0,2014-05-01,5,May,2014,,United States of America,Paseo
+Enterprise,2988.0,10,358560.0,2014-07-01,7,July,2014,,France,Paseo
+Midmarket,218.0,10,2180.0,2014-09-01,9,September,2014,,Canada,Paseo
+Midmarket,671.0,10,6710.0,2013-10-01,10,October,2013,,United States of America,Paseo
+Midmarket,1514.0,10,15140.0,2013-10-01,10,October,2013,,Mexico,Paseo
+Enterprise,1138.0,10,136560.0,2014-12-01,12,December,2014,,Mexico,Paseo
+Channel Partners,2431.0,10,7293.0,2014-12-01,12,December,2014,,Canada,Paseo
+Enterprise,2992.0,10,359040.0,2014-03-01,3,March,2014,,United States of America,Paseo
+Enterprise,2385.0,10,286200.0,2014-03-01,3,March,2014,,France,Paseo
+Small Business,1607.0,10,401750.0,2014-04-01,4,April,2014,,Mexico,Paseo
+Small Business,991.0,10,247750.0,2014-06-01,6,June,2014,,United States of America,Paseo
+Midmarket,2620.0,10,26200.0,2014-09-01,9,September,2014,,France,Paseo
+Enterprise,861.0,10,103320.0,2014-10-01,10,October,2014,,United States of America,Paseo
+Enterprise,704.0,10,84480.0,2013-10-01,10,October,2013,,France,Paseo
+Midmarket,2116.0,10,21160.0,2013-12-01,12,December,2013,,Germany,Paseo
+Midmarket,3801.0,10,38010.0,2014-04-01,4,April,2014,,France,Paseo
+Channel Partners,2299.0,10,6897.0,2013-10-01,10,October,2013,,Canada,Paseo
+Midmarket,2198.0,10,21980.0,2014-08-01,8,August,2014,,United States of America,Paseo
+Midmarket,1743.0,10,17430.0,2014-08-01,8,August,2014,,Germany,Paseo
+Midmarket,1153.0,10,11530.0,2014-10-01,10,October,2014,,United States of America,Paseo
+Small Business,1702.0,10,425500.0,2014-05-01,5,May,2014,,Canada,Paseo
+Small Business,448.0,10,112000.0,2014-06-01,6,June,2014,,France,Paseo
+Enterprise,3513.0,10,421560.0,2014-07-01,7,July,2014,,Germany,Paseo
+Midmarket,2101.0,10,21010.0,2014-08-01,8,August,2014,,France,Paseo
+Midmarket,2931.0,10,29310.0,2013-09-01,9,September,2013,,United States of America,Paseo
+Small Business,1123.0,10,280750.0,2013-09-01,9,September,2013,,Germany,Paseo
+Small Business,1404.0,10,351000.0,2013-11-01,11,November,2013,,Canada,Paseo
+Channel Partners,2763.0,10,8289.0,2013-11-01,11,November,2013,,Mexico,Paseo
+Enterprise,1114.0,10,133680.0,2014-03-01,3,March,2014,,Mexico,Paseo
+Small Business,2460.0,10,615000.0,2014-06-01,6,June,2014,,Mexico,Paseo
+Small Business,2565.0,10,641250.0,2014-01-01,1,January,2014,,Mexico,Paseo
+Midmarket,3675.0,10,36750.0,2014-04-01,4,April,2014,,United States of America,Paseo
+Small Business,1094.0,10,273500.0,2014-06-01,6,June,2014,,Canada,Paseo
+Midmarket,1227.0,10,12270.0,2014-10-01,10,October,2014,,France,Paseo
+Channel Partners,367.0,10,1101.0,2013-10-01,10,October,2013,,Mexico,Paseo
+Small Business,1324.0,10,331000.0,2014-11-01,11,November,2014,,France,Paseo
+Channel Partners,1775.0,10,5325.0,2013-11-01,11,November,2013,,Germany,Paseo
+Enterprise,2797.0,10,335640.0,2014-12-01,12,December,2014,,United States of America,Paseo
+Channel Partners,386.0,10,1158.0,2013-10-01,10,October,2013,,United States of America,Paseo
+Small Business,591.0,10,147750.0,2014-05-01,5,May,2014,,Mexico,Paseo
+Midmarket,2167.0,10,21670.0,2013-10-01,10,October,2013,,France,Paseo
+Channel Partners,1198.0,10,3594.0,2013-10-01,10,October,2013,,France,Paseo
+Small Business,873.0,10,218250.0,2014-01-01,1,January,2014,,Canada,Paseo
+Channel Partners,4026.0,10,12078.0,2014-07-01,7,July,2014,,Canada,Paseo
+Channel Partners,2425.5,10,7276.5,2014-07-01,7,July,2014,,France,Paseo
+Midmarket,1984.0,10,19840.0,2014-08-01,8,August,2014,,Mexico,Paseo
+Enterprise,2441.0,10,292920.0,2014-10-01,10,October,2014,,France,Paseo
+Small Business,1366.0,10,341500.0,2014-11-01,11,November,2014,,Canada,Paseo
+Small Business,3495.0,10,873750.0,2014-01-01,1,January,2014,,United States of America,Paseo
+Enterprise,2156.0,10,258720.0,2014-10-01,10,October,2014,,Mexico,Paseo
+Small Business,1359.0,10,339750.0,2014-11-01,11,November,2014,,Germany,Paseo
+Small Business,2150.0,10,537500.0,2014-11-01,11,November,2014,,Mexico,Paseo
+Midmarket,380.0,10,3800.0,2013-12-01,12,December,2013,,Mexico,Paseo
+Small Business,807.0,10,201750.0,2014-01-01,1,January,2014,,Germany,Paseo
+Enterprise,1583.0,10,189960.0,2014-06-01,6,June,2014,,Canada,Paseo
+Channel Partners,571.0,10,1713.0,2014-07-01,7,July,2014,,Mexico,Paseo
+Midmarket,1565.0,10,15650.0,2014-10-01,10,October,2014,,Canada,Paseo
+Channel Partners,1013.0,10,3039.0,2014-12-01,12,December,2014,,Germany,Paseo
+Midmarket,278.0,10,2780.0,2014-02-01,2,February,2014,,Germany,Paseo
+Midmarket,1767.0,10,17670.0,2014-09-01,9,September,2014,,United States of America,Paseo
+Channel Partners,1393.0,10,4179.0,2014-10-01,10,October,2014,,France,Paseo
+Midmarket,2470.0,10,24700.0,2013-09-01,9,September,2013,,Canada,Paseo
+Midmarket,1743.0,10,17430.0,2013-10-01,10,October,2013,,Canada,Paseo
+Channel Partners,2914.0,10,8742.0,2014-10-01,10,October,2014,,United States of America,Paseo
+Channel Partners,2222.0,10,6666.0,2013-11-01,11,November,2013,,Canada,Paseo
+Midmarket,1614.0,10,16140.0,2014-04-01,4,April,2014,,Canada,Paseo
+Midmarket,2559.0,10,25590.0,2014-08-01,8,August,2014,,Canada,Paseo
+Enterprise,1085.0,10,130200.0,2014-10-01,10,October,2014,,Germany,Paseo
+Midmarket,1175.0,10,11750.0,2014-10-01,10,October,2014,,Germany,Paseo
+Channel Partners,914.0,10,2742.0,2014-12-01,12,December,2014,,United States of America,Paseo
+Government,1513.0,3,393380.0,2014-12-01,12,December,2014,,Germany,Carretera
+Government,1006.0,10,261560.0,2014-06-01,6,June,2014,,Germany,Paseo
+Government,1725.0,10,448500.0,2013-11-01,11,November,2013,,Canada,Paseo
+Government,1513.0,10,393380.0,2014-12-01,12,December,2014,,Germany,Paseo
+Government,1006.0,120,261560.0,2014-06-01,6,June,2014,,Germany,Velo
+Government,1513.0,3,393380.0,2014-12-01,12,December,2014,,Germany,Carretera
+Government,1006.0,10,261560.0,2014-06-01,6,June,2014,,Germany,Paseo
+Government,1725.0,10,448500.0,2013-11-01,11,November,2013,,Canada,Paseo
+Government,1513.0,10,393380.0,2014-12-01,12,December,2014,,Germany,Paseo
+Government,1006.0,120,261560.0,2014-06-01,6,June,2014,,Germany,Velo
+Government,1513.0,3,393380.0,2014-12-01,12,December,2014,,Germany,Carretera
+Government,1006.0,10,261560.0,2014-06-01,6,June,2014,,Germany,Paseo
+Government,1725.0,10,448500.0,2013-11-01,11,November,2013,,Canada,Paseo
+Government,1513.0,10,393380.0,2014-12-01,12,December,2014,,Germany,Paseo
+Government,1006.0,120,261560.0,2014-06-01,6,June,2014,,Germany,Velo
+Government,1513.0,3,393380.0,2015-12-01,12,December,2015,,Germany,Carretera
+Government,1006.0,10,261560.0,2015-06-01,6,June,2015,,Germany,Paseo
+Government,1725.0,10,448500.0,2015-11-01,11,November,2015,,Canada,Paseo
+Government,1513.0,10,393380.0,2015-12-01,12,December,2015,,Germany,Paseo
+Government,1006.0,120,261560.0,2015-06-01,6,June,2015,,Germany,Velo
+Government,1527.0,250,397020.0,2015-09-01,9,September,2015,,France,VTT
+Government,2750.0,260,715000.0,2015-02-01,2,February,2015,,France,Amarilla
+Government,1210.0,3,314600.0,2015-03-01,3,March,2015,,Mexico,Carretera
+Government,1397.0,3,363220.0,2015-10-01,10,October,2015,,Mexico,Carretera
+Government,2155.0,3,560300.0,2015-12-01,12,December,2015,,France,Carretera
+Government,2155.0,10,560300.0,2015-12-01,12,December,2015,,France,Paseo
+Government,943.5,250,245310.0,2015-04-01,4,April,2015,,Canada,VTT
+Government,1397.0,250,363220.0,2015-10-01,10,October,2015,,Mexico,VTT
+Government,2852.0,3,741520.0,2015-12-01,12,December,2015,,Canada,Carretera
+Government,2852.0,10,741520.0,2015-12-01,12,December,2015,,Canada,Paseo
+Government,2966.0,120,771160.0,2015-10-01,10,October,2015,,Germany,Velo
+Government,2877.0,120,748020.0,2015-10-01,10,October,2015,,Germany,Velo
+Government,2877.0,250,748020.0,2015-10-01,10,October,2015,,Germany,VTT
+Government,266.0,250,69160.0,2015-12-01,12,December,2015,,United States of America,VTT
+Government,1940.0,250,504400.0,2015-12-01,12,December,2015,,Mexico,VTT
+Government,2966.0,260,771160.0,2015-10-01,10,October,2015,,Germany,Amarilla
+Government,1797.0,5,467220.0,2015-09-01,9,September,2015,,Germany,Montana
+Government,1642.0,250,426920.0,2015-08-01,8,August,2015,,Mexico,VTT
+Government,274.0,3,71240.0,2015-12-01,12,December,2015,,United States of America,Carretera
+Government,3450.0,10,897000.0,2015-07-01,7,July,2015,,United States of America,Paseo
+Government,274.0,10,71240.0,2015-12-01,12,December,2015,,United States of America,Paseo
+Government,2177.0,120,566020.0,2015-10-01,10,October,2015,,France,Velo
+Government,349.0,250,90740.0,2015-09-01,9,September,2015,,United States of America,VTT
+Government,2177.0,250,566020.0,2015-10-01,10,October,2015,,France,VTT
+Government,1865.0,260,484900.0,2015-02-01,2,February,2015,,Mexico,Amarilla
+Government,1907.0,260,495820.0,2015-09-01,9,September,2015,,Germany,Amarilla
+Government,1778.0,260,462280.0,2015-12-01,12,December,2015,,Canada,Amarilla
+Government,1384.5,5,359970.0,2015-01-01,1,January,2015,,France,Montana
+Government,720.0,5,187200.0,2015-09-01,9,September,2015,,Mexico,Montana
+Government,602.0,10,156520.0,2015-06-01,6,June,2015,,United States of America,Paseo
+Government,1228.0,10,319280.0,2015-10-01,10,October,2015,,Canada,Paseo
+Government,602.0,120,156520.0,2015-06-01,6,June,2015,,United States of America,Velo
+Government,1350.0,260,351000.0,2015-02-01,2,February,2015,,Germany,Amarilla
+Government,552.0,260,143520.0,2015-08-01,8,August,2015,,Canada,Amarilla
+Government,1228.0,260,319280.0,2015-10-01,10,October,2015,,Canada,Amarilla
+Government,980.0,5,254800.0,2015-04-01,4,April,2015,,Mexico,Montana
+Government,1460.0,5,379600.0,2015-05-01,5,May,2015,,Germany,Montana
+Government,1496.0,10,388960.0,2015-06-01,6,June,2015,,France,Paseo
+Government,727.0,10,189020.0,2015-10-01,10,October,2015,,United States of America,Paseo
+Government,1496.0,120,388960.0,2015-06-01,6,June,2015,,France,Velo
+Government,2076.0,120,539760.0,2015-10-01,10,October,2015,,France,Velo
+Government,1679.0,260,436540.0,2015-09-01,9,September,2015,,Mexico,Amarilla
+Government,727.0,260,189020.0,2015-10-01,10,October,2015,,United States of America,Amarilla
+Government,2076.0,260,539760.0,2015-10-01,10,October,2015,,France,Amarilla
+Government,1761.0,3,457860.0,2015-03-01,3,March,2015,,United States of America,Carretera
+Government,2876.0,260,747760.0,2015-09-01,9,September,2015,,France,Amarilla
+Government,1362.0,3,354120.0,2015-12-01,12,December,2015,,Mexico,Carretera
+Government,2146.0,10,557960.0,2015-11-01,11,November,2015,,Germany,Paseo
+Government,1362.0,10,354120.0,2015-12-01,12,December,2015,,Mexico,Paseo
+Government,574.5,250,149370.0,2015-04-01,4,April,2015,,France,VTT
+Government,381.0,250,99060.0,2015-08-01,8,August,2015,,France,VTT
+Government,422.0,250,109720.0,2015-08-01,8,August,2015,,Germany,VTT
+Government,1666.0,5,433160.0,2015-05-01,5,May,2015,,France,Montana
+Government,2417.0,10,628420.0,2015-01-01,1,January,2015,,Mexico,Paseo
+Government,1307.0,120,339820.0,2015-07-01,7,July,2015,,Germany,Velo
+Government,1269.0,120,329940.0,2015-10-01,10,October,2015,,Canada,Velo
+Government,1351.5,250,351390.0,2015-04-01,4,April,2015,,United States of America,VTT
+Government,2071.0,260,538460.0,2015-09-01,9,September,2015,,United States of America,Amarilla
+Government,1269.0,260,329940.0,2015-10-01,10,October,2015,,Canada,Amarilla
+Government,2313.0,5,601380.0,2015-05-01,5,May,2015,,United States of America,Montana
+Government,639.0,120,166140.0,2015-07-01,7,July,2015,,France,Velo
+Government,2807.0,250,729820.0,2015-08-01,8,August,2015,,United States of America,VTT
+Government,1870.0,250,486200.0,2015-12-01,12,December,2015,,Germany,VTT
+Government,2240.0,260,582400.0,2015-02-01,2,February,2015,,Canada,Amarilla
+Government,707.0,260,183820.0,2015-09-01,9,September,2015,,Canada,Amarilla
+Government,792.0,3,205920.0,2015-03-01,3,March,2015,,Germany,Carretera
+Government,766.0,5,199160.0,2015-01-01,1,January,2015,,Germany,Montana
+Government,2104.5,10,547170.0,2015-07-01,7,July,2015,,Canada,Paseo
+Government,344.0,120,89440.0,2015-10-01,10,October,2015,,Mexico,Velo
+Government,344.0,260,89440.0,2015-10-01,10,October,2015,,Mexico,Amarilla
+Government,886.0,3,230360.0,2015-06-01,6,June,2015,,Mexico,Carretera
+Government,886.0,10,230360.0,2015-06-01,6,June,2015,,Mexico,Paseo
+Government,1594.0,10,414440.0,2015-11-01,11,November,2015,,France,Paseo
+Government,1197.0,10,311220.0,2015-11-01,11,November,2015,,Mexico,Paseo
+Government,1395.0,120,362700.0,2015-07-01,7,July,2015,,Mexico,Velo
+Government,986.0,120,256360.0,2015-10-01,10,October,2015,,United States of America,Velo
+Government,623.0,250,161980.0,2015-09-01,9,September,2015,,Canada,VTT
+Government,986.0,250,256360.0,2015-10-01,10,October,2015,,United States of America,VTT
+Government,270.0,260,70200.0,2015-02-01,2,February,2015,,United States of America,Amarilla
+Government,923.0,3,239980.0,2015-03-01,3,March,2015,,Canada,Carretera
+Government,1790.0,3,465400.0,2015-03-01,3,March,2015,,France,Carretera
+Government,982.5,5,255450.0,2015-01-01,1,January,2015,,United States of America,Montana
+Government,2632.0,10,684320.0,2015-06-01,6,June,2015,,Canada,Paseo
+Government,357.0,10,92820.0,2015-11-01,11,November,2015,,Germany,Paseo
+Government,2632.0,120,684320.0,2015-06-01,6,June,2015,,Canada,Velo
+Government,2227.5,5,579150.0,2015-01-01,1,January,2015,,Canada,Montana
+Government,1199.0,5,311740.0,2015-04-01,4,April,2015,,Germany,Montana
+Government,200.0,5,52000.0,2015-05-01,5,May,2015,,Canada,Montana
+Government,700.0,10,182000.0,2015-11-01,11,November,2015,,Canada,Paseo
+Government,1177.0,10,306020.0,2015-11-01,11,November,2015,,United States of America,Paseo
+Government,1922.0,10,499720.0,2015-11-01,11,November,2015,,France,Paseo
+Government,1281.0,250,333060.0,2015-12-01,12,December,2015,,France,VTT
+Government,2851.0,10,741260.0,2015-05-01,5,May,2015,,Mexico,Paseo
+Government,2007.0,10,521820.0,2015-11-01,11,November,2015,,United States of America,Paseo
+Government,2151.0,10,559260.0,2015-11-01,11,November,2015,,Mexico,Paseo
+Government,1618.5,3,16185.0,2015-01-01,1,January,2015,,Canada,Carretera
+Government,1321.0,3,13210.0,2015-01-01,1,January,2015,,Germany,Carretera
+Government,1899.0,5,18990.0,2015-06-01,6,June,2015,,France,Montana
+Government,292.0,10,2920.0,2015-02-01,2,February,2015,,Canada,Paseo
+Government,1817.0,10,18170.0,2015-12-01,12,December,2015,,Canada,Paseo
+Government,1817.0,250,18170.0,2015-12-01,12,December,2015,,Canada,VTT
+Government,1899.0,260,18990.0,2015-06-01,6,June,2015,,France,Amarilla
+Government,1375.5,5,13755.0,2015-07-01,7,July,2015,,France,Montana
+Government,3864.0,120,38640.0,2015-04-01,4,April,2015,,France,Velo
+Government,1566.0,5,15660.0,2015-10-01,10,October,2015,,United States of America,Montana
+Government,1566.0,120,15660.0,2015-10-01,10,October,2015,,United States of America,Velo
+Government,544.0,120,5440.0,2015-12-01,12,December,2015,,Mexico,Velo
+Government,1236.0,260,12360.0,2015-11-01,11,November,2015,,United States of America,Amarilla
+Government,941.0,260,9410.0,2015-11-01,11,November,2015,,France,Amarilla
+Government,2580.0,3,25800.0,2015-04-01,4,April,2015,,Germany,Carretera
+Government,831.0,3,8310.0,2015-05-01,5,May,2015,,Canada,Carretera
+Government,3850.5,120,38505.0,2015-04-01,4,April,2015,,Canada,Velo
+Government,736.0,120,7360.0,2015-09-01,9,September,2015,,United States of America,Velo
+Government,2074.0,10,20740.0,2015-09-01,9,September,2015,,Canada,Paseo
+Government,1056.0,10,10560.0,2015-09-01,9,September,2015,,United States of America,Paseo
+Government,2646.0,120,26460.0,2015-09-01,9,September,2015,,Canada,Velo
+Government,1563.0,3,15630.0,2015-05-01,5,May,2015,,France,Carretera
+Government,1303.0,10,13030.0,2015-02-01,2,February,2015,,France,Paseo
+Government,1389.0,10,13890.0,2015-10-01,10,October,2015,,Canada,Paseo
+Government,1802.0,10,18020.0,2015-12-01,12,December,2015,,Canada,Paseo
+Government,2663.0,10,26630.0,2015-12-01,12,December,2015,,United States of America,Paseo
+Government,2832.0,120,28320.0,2015-08-01,8,August,2015,,United States of America,Velo
+Government,1579.0,120,15790.0,2015-08-01,8,August,2015,,France,Velo
+Government,1033.0,120,10330.0,2015-12-01,12,December,2015,,France,Velo
+Government,1389.0,250,13890.0,2015-10-01,10,October,2015,,Canada,VTT
+Government,1265.0,250,12650.0,2015-11-01,11,November,2015,,United States of America,VTT
+Government,2297.0,250,22970.0,2015-11-01,11,November,2015,,Germany,VTT
+Government,2663.0,250,26630.0,2015-12-01,12,December,2015,,United States of America,VTT
+Government,1117.5,3,11175.0,2015-01-01,1,January,2015,,United States of America,Carretera
+Government,1123.0,250,11230.0,2015-11-01,11,November,2015,,Mexico,VTT
+Government,1757.0,5,17570.0,2015-10-01,10,October,2015,,France,Montana
+Government,1757.0,10,17570.0,2015-10-01,10,October,2015,,France,Paseo
+Government,1001.0,120,10010.0,2015-08-01,8,August,2015,,Germany,Velo
+Government,1834.0,3,18340.0,2015-09-01,9,September,2015,,Mexico,Carretera
+Government,1976.0,5,19760.0,2015-10-01,10,October,2015,,France,Montana
+Government,1535.0,10,15350.0,2015-09-01,9,September,2015,,France,Paseo
+Government,609.0,120,6090.0,2015-08-01,8,August,2015,,Mexico,Velo
+Government,1976.0,120,19760.0,2015-10-01,10,October,2015,,France,Velo
+Government,1421.0,120,14210.0,2015-12-01,12,December,2015,,United States of America,Velo
+Government,588.0,120,5880.0,2015-12-01,12,December,2015,,Germany,Velo
+Government,1118.0,260,11180.0,2015-11-01,11,November,2015,,Canada,Amarilla
+Government,1282.0,5,12820.0,2015-06-01,6,June,2015,,United States of America,Montana
+Government,1282.0,260,12820.0,2015-06-01,6,June,2015,,United States of America,Amarilla
+Government,708.0,5,7080.0,2015-06-01,6,June,2015,,Canada,Montana
+Government,645.0,5,6450.0,2015-07-01,7,July,2015,,Germany,Montana
+Government,1366.0,10,13660.0,2015-06-01,6,June,2015,,Germany,Paseo
+Government,1934.0,10,19340.0,2015-09-01,9,September,2015,,Germany,Paseo
+Government,2993.0,10,29930.0,2015-09-01,9,September,2015,,Mexico,Paseo
+Government,708.0,260,7080.0,2015-06-01,6,June,2015,,Canada,Amarilla
+Government,1366.0,260,13660.0,2015-06-01,6,June,2015,,Germany,Amarilla
+Government,1520.0,260,15200.0,2015-11-01,11,November,2015,,Germany,Amarilla
+Government,436.5,250,4365.0,2015-07-01,7,July,2015,,United States of America,VTT
+Government,1694.0,260,16940.0,2015-11-01,11,November,2015,,Mexico,Amarilla
+Government,663.0,3,6630.0,2015-05-01,5,May,2015,,Germany,Carretera
+Government,973.0,10,9730.0,2015-03-01,3,March,2015,,United States of America,Paseo
+Government,1038.0,10,10380.0,2015-06-01,6,June,2015,,Mexico,Paseo
+Government,2682.0,250,26820.0,2015-11-01,11,November,2015,,France,VTT
+Government,1038.0,260,10380.0,2015-06-01,6,June,2015,,Mexico,Amarilla
+Government,1954.0,10,19540.0,2015-03-01,3,March,2015,,France,Paseo
+Government,241.0,10,2410.0,2015-10-01,10,October,2015,,Germany,Paseo
+Government,241.0,120,2410.0,2015-10-01,10,October,2015,,Germany,Velo
+Government,2039.0,260,20390.0,2015-05-01,5,May,2015,,Mexico,Amarilla
+Government,2992.0,5,29920.0,2015-10-01,10,October,2015,,Germany,Montana
+Government,1122.0,10,11220.0,2015-03-01,3,March,2015,,Mexico,Paseo
+Government,2394.0,10,23940.0,2015-08-01,8,August,2015,,Canada,Paseo
+Government,2992.0,10,29920.0,2015-10-01,10,October,2015,,Germany,Paseo
+Government,2805.0,120,28050.0,2015-09-01,9,September,2015,,France,Velo
+Government,2935.0,250,29350.0,2015-11-01,11,November,2015,,Canada,VTT
+Government,2629.0,260,26290.0,2015-01-01,1,January,2015,,Mexico,Amarilla
+Government,1715.0,5,17150.0,2015-10-01,10,October,2015,,Mexico,Montana
+Government,905.0,10,9050.0,2015-10-01,10,October,2015,,Mexico,Paseo
+Government,1715.0,10,17150.0,2015-10-01,10,October,2015,,Mexico,Paseo
+Government,1233.0,10,12330.0,2015-12-01,12,December,2015,,Mexico,Paseo
+Government,905.0,120,9050.0,2015-10-01,10,October,2015,,Mexico,Velo
+Government,1233.0,250,12330.0,2015-12-01,12,December,2015,,Mexico,VTT
+Government,2521.5,3,25215.0,2015-01-01,1,January,2015,,France,Carretera
+Government,1531.0,10,15310.0,2015-12-01,12,December,2015,,Germany,Paseo
+Government,1531.0,250,15310.0,2015-12-01,12,December,2015,,Germany,VTT
+Government,442.0,3,4420.0,2015-09-01,9,September,2015,,Germany,Carretera
+Government,2255.0,5,22550.0,2015-07-01,7,July,2015,,Mexico,Montana
+Government,1249.0,5,12490.0,2015-10-01,10,October,2015,,Canada,Montana
+Government,2641.0,10,26410.0,2015-02-01,2,February,2015,,United States of America,Paseo
+Government,2708.0,10,27080.0,2015-02-01,2,February,2015,,Germany,Paseo
+Government,1249.0,10,12490.0,2015-10-01,10,October,2015,,Canada,Paseo
+Government,2579.0,3,25790.0,2015-04-01,4,April,2015,,Mexico,Carretera
+Government,1743.0,3,17430.0,2015-05-01,5,May,2015,,United States of America,Carretera
+Government,2428.0,10,24280.0,2015-03-01,3,March,2015,,Canada,Paseo
+Government,260.0,10,2600.0,2015-02-01,2,February,2015,,Mexico,Paseo
+Government,606.0,120,6060.0,2015-04-01,4,April,2015,,United States of America,Velo
+Government,1158.0,10,11580.0,2015-03-01,3,March,2015,,Germany,Paseo
+Government,267.0,10,2670.0,2015-10-01,10,October,2015,,United States of America,Paseo
+Government,293.0,10,2930.0,2015-12-01,12,December,2015,,France,Paseo
+Government,865.5,250,8655.0,2015-07-01,7,July,2015,,Canada,VTT
+Government,267.0,250,2670.0,2015-10-01,10,October,2015,,United States of America,VTT
+Government,293.0,250,2930.0,2015-12-01,12,December,2015,,France,VTT
+Government,2146.0,5,10730.0,2015-09-01,9,September,2015,,Germany,Montana
+Government,883.0,10,4415.0,2015-08-01,8,August,2015,,Mexico,Paseo
+Government,1143.0,10,5715.0,2015-10-01,10,October,2015,,United States of America,Paseo
+Government,1493.0,120,7465.0,2015-01-01,1,January,2015,,Mexico,Velo
+Government,1686.0,260,8430.0,2015-07-01,7,July,2015,,Germany,Amarilla
+Government,1143.0,260,5715.0,2015-10-01,10,October,2015,,United States of America,Amarilla
+Government,3945.0,10,19725.0,2015-01-01,1,January,2015,,France,Paseo
+Government,1030.0,10,5150.0,2015-05-01,5,May,2015,,France,Paseo
+Government,639.0,120,3195.0,2015-11-01,11,November,2015,,France,Velo
+Government,1326.0,250,6630.0,2015-03-01,3,March,2015,,Canada,VTT
+Government,2529.0,3,12645.0,2015-07-01,7,July,2015,,United States of America,Carretera
+Government,1830.0,5,9150.0,2015-08-01,8,August,2015,,Canada,Montana
+Government,4492.5,10,22462.5,2015-04-01,4,April,2015,,United States of America,Paseo
+Government,362.0,120,1810.0,2015-05-01,5,May,2015,,Mexico,Velo
+Government,2092.0,120,10460.0,2015-11-01,11,November,2015,,Canada,Velo
+Government,263.0,250,1315.0,2015-03-01,3,March,2015,,Germany,VTT
+Government,2145.0,3,10725.0,2015-11-01,11,November,2015,,France,Carretera
+Government,2013.0,10,10065.0,2015-12-01,12,December,2015,,United States of America,Paseo
+Government,1958.0,5,9790.0,2015-02-01,2,February,2015,,Germany,Montana
+Government,544.0,5,2720.0,2015-09-01,9,September,2015,,France,Montana
+Government,1760.0,10,8800.0,2015-09-01,9,September,2015,,Mexico,Paseo
+Government,2851.0,3,14255.0,2015-10-01,10,October,2015,,Canada,Carretera
+Government,2851.0,5,14255.0,2015-10-01,10,October,2015,,Canada,Montana
+Government,4251.0,10,21255.0,2015-01-01,1,January,2015,,Canada,Paseo
+Government,1159.0,5,5795.0,2015-10-01,10,October,2015,,Germany,Montana
+Government,1372.0,10,6860.0,2015-01-01,1,January,2015,,Germany,Paseo
+Government,2349.0,10,11745.0,2015-09-01,9,September,2015,,Canada,Paseo
+Government,2689.0,10,13445.0,2015-10-01,10,October,2015,,Mexico,Paseo
+Government,2689.0,250,13445.0,2015-10-01,10,October,2015,,Mexico,VTT
+Government,1683.0,260,8415.0,2015-07-01,7,July,2015,,Mexico,Amarilla
+Government,1159.0,260,5795.0,2015-10-01,10,October,2015,,Germany,Amarilla
+Government,1016.0,3,5080.0,2015-11-01,11,November,2015,,Germany,Carretera
+Government,570.0,3,2850.0,2015-12-01,12,December,2015,,United States of America,Carretera
+Government,2487.0,3,12435.0,2015-12-01,12,December,2015,,France,Carretera
+Government,2327.0,10,11635.0,2015-05-01,5,May,2015,,United States of America,Paseo
+Government,2136.0,10,10680.0,2015-12-01,12,December,2015,,France,Paseo
+Government,570.0,250,2850.0,2015-12-01,12,December,2015,,United States of America,VTT
+Government,2487.0,250,12435.0,2015-12-01,12,December,2015,,France,VTT
+Government,263.0,3,1315.0,2015-11-01,11,November,2015,,United States of America,Carretera
+Government,1403.0,5,7015.0,2015-10-01,10,October,2015,,France,Montana
+Government,1498.0,120,7490.0,2015-06-01,6,June,2015,,Mexico,Velo
+Government,1498.0,250,7490.0,2015-06-01,6,June,2015,,Mexico,VTT
+Government,1403.0,260,7015.0,2015-10-01,10,October,2015,,France,Amarilla
+Government,1333.0,120,6665.0,2015-11-01,11,November,2015,,Mexico,Velo
+Government,1031.0,10,5155.0,2015-09-01,9,September,2015,,France,Paseo
+Government,1135.0,120,5675.0,2015-06-01,6,June,2015,,Canada,Velo
+Government,547.0,120,2735.0,2015-11-01,11,November,2015,,United States of America,Velo
+Government,1582.0,120,7910.0,2015-12-01,12,December,2015,,Canada,Velo
+Government,1582.0,250,7910.0,2015-12-01,12,December,2015,,Canada,VTT
+Government,1135.0,260,5675.0,2015-06-01,6,June,2015,,Canada,Amarilla
+Government,2125.0,10,10625.0,2015-12-01,12,December,2015,,Germany,Paseo
+Government,488.0,5,2440.0,2015-02-01,2,February,2015,,Canada,Montana
+Government,257.0,10,1285.0,2015-05-01,5,May,2015,,Canada,Paseo
+Government,1259.0,10,6295.0,2015-04-01,4,April,2015,,Germany,Paseo
+Government,1095.0,10,5475.0,2015-05-01,5,May,2015,,Germany,Paseo
+Government,678.0,10,3390.0,2015-08-01,8,August,2015,,United States of America,Paseo
+Government,1598.0,10,7990.0,2015-08-01,8,August,2015,,Germany,Paseo
+Government,2409.0,10,12045.0,2015-09-01,9,September,2015,,Germany,Paseo
+Government,1946.0,10,9730.0,2015-12-01,12,December,2015,,Mexico,Paseo
+Government,2907.0,120,14535.0,2015-06-01,6,June,2015,,United States of America,Velo
+Government,2338.0,120,11690.0,2015-06-01,6,June,2015,,Germany,Velo
+Government,2338.0,250,11690.0,2015-06-01,6,June,2015,,Germany,VTT
+Government,2907.0,260,14535.0,2015-06-01,6,June,2015,,United States of America,Amarilla
+Government,1611.0,5,8055.0,2015-12-01,12,December,2015,,Canada,Montana
+Government,819.0,3,4095.0,2015-07-01,7,July,2015,,Canada,Carretera
+Government,521.0,3,2605.0,2015-12-01,12,December,2015,,Mexico,Carretera
+Government,360.0,10,1800.0,2015-10-01,10,October,2015,,Germany,Paseo
+Government,360.0,250,1800.0,2015-10-01,10,October,2015,,Germany,VTT
+Government,521.0,250,2605.0,2015-12-01,12,December,2015,,Mexico,VTT
+Government,2328.0,5,11640.0,2015-09-01,9,September,2015,,United States of America,Montana
+Government,2665.0,120,13325.0,2015-11-01,11,November,2015,,Germany,Velo
+Government,2532.0,10,12660.0,2015-04-01,4,April,2015,,France,Paseo
+Government,1579.0,250,7895.0,2015-03-01,3,March,2015,,United States of America,VTT
+Government,2706.0,3,13530.0,2015-11-01,11,November,2015,,Mexico,Carretera
+Government,1808.0,120,9040.0,2015-11-01,11,November,2015,,Canada,Velo
+Government,380.0,10,1900.0,2015-09-01,9,September,2015,,United States of America,Paseo
+Government,2420.0,5,12100.0,2015-09-01,9,September,2015,,Mexico,Montana
+Government,2734.0,5,13670.0,2015-10-01,10,October,2015,,Canada,Montana
+Government,3421.5,260,17107.5,2015-07-01,7,July,2015,,France,Amarilla
+Government,2734.0,260,13670.0,2015-10-01,10,October,2015,,Canada,Amarilla
+Government,1491.0,250,7455.0,2015-03-01,3,March,2015,,France,VTT
+Government,1298.0,5,6490.0,2015-02-01,2,February,2015,,United States of America,Montana
+Government,1438.5,10,7192.5,2015-01-01,1,January,2015,,United States of America,Paseo
+Government,2696.0,10,13480.0,2015-08-01,8,August,2015,,France,Paseo
+Government,1190.0,120,5950.0,2015-06-01,6,June,2015,,France,Velo
+Government,1190.0,260,5950.0,2015-06-01,6,June,2015,,France,Amarilla
+Government,2996.0,3,14980.0,2015-10-01,10,October,2015,,United States of America,Carretera
+Government,280.0,3,1400.0,2015-12-01,12,December,2015,,Germany,Carretera
+Government,293.0,5,1465.0,2015-02-01,2,February,2015,,France,Montana
+Government,2996.0,5,14980.0,2015-10-01,10,October,2015,,United States of America,Montana
+Government,280.0,250,1400.0,2015-12-01,12,December,2015,,Germany,VTT
+Government,388.0,5,1940.0,2015-09-01,9,September,2015,,Canada,Montana
+Government,1727.0,5,8635.0,2015-10-01,10,October,2015,,Mexico,Montana
+Government,1731.0,10,8655.0,2015-10-01,10,October,2015,,France,Paseo
+Government,2903.0,250,14515.0,2015-03-01,3,March,2015,,Mexico,VTT
+Government,1731.0,260,8655.0,2015-10-01,10,October,2015,,France,Amarilla
+Government,1727.0,260,8635.0,2015-10-01,10,October,2015,,Mexico,Amarilla
+Government,2535.0,10,12675.0,2015-04-01,4,April,2015,,Mexico,Paseo
+Government,1368.0,5,6840.0,2015-02-01,2,February,2015,,Mexico,Montana
+Government,723.0,10,3615.0,2015-04-01,4,April,2015,,Canada,Paseo
+Midmarket,2178.0,3,21780.0,2015-06-01,6,June,2015,,France,Carretera
+Midmarket,888.0,3,8880.0,2015-06-01,6,June,2015,,Germany,Carretera
+Midmarket,2470.0,3,24700.0,2015-06-01,6,June,2015,,Mexico,Carretera
+Midmarket,921.0,5,9210.0,2015-03-01,3,March,2015,,Germany,Montana
+Channel Partners,2518.0,5,7554.0,2015-06-01,6,June,2015,,Canada,Montana
+Channel Partners,1545.0,5,4635.0,2015-06-01,6,June,2015,,Germany,Montana
+Midmarket,2470.0,5,24700.0,2015-06-01,6,June,2015,,Mexico,Montana
+Enterprise,2665.5,5,319860.0,2015-07-01,7,July,2015,,Canada,Montana
+Small Business,958.0,5,239500.0,2015-08-01,8,August,2015,,Mexico,Montana
+Enterprise,345.0,5,41400.0,2015-10-01,10,October,2015,,Canada,Montana
+Midmarket,615.0,5,6150.0,2015-12-01,12,December,2015,,United States of America,Montana
+Enterprise,1804.0,120,216480.0,2015-02-01,2,February,2015,,France,Velo
+Channel Partners,2161.0,120,6483.0,2015-03-01,3,March,2015,,Germany,Velo
+Channel Partners,1545.0,120,4635.0,2015-06-01,6,June,2015,,Germany,Velo
+Enterprise,2821.0,120,338520.0,2015-08-01,8,August,2015,,United States of America,Velo
+Enterprise,345.0,120,41400.0,2015-10-01,10,October,2015,,Canada,Velo
+Small Business,2001.0,250,500250.0,2015-02-01,2,February,2015,,Canada,VTT
+Channel Partners,2838.0,250,8514.0,2015-04-01,4,April,2015,,Germany,VTT
+Midmarket,2178.0,250,21780.0,2015-06-01,6,June,2015,,France,VTT
+Midmarket,888.0,250,8880.0,2015-06-01,6,June,2015,,Germany,VTT
+Small Business,2151.0,250,537750.0,2015-09-01,9,September,2015,,France,VTT
+Channel Partners,1953.0,260,5859.0,2015-04-01,4,April,2015,,United States of America,Amarilla
+Enterprise,4219.5,260,506340.0,2015-04-01,4,April,2015,,Germany,Amarilla
+Channel Partners,2141.0,260,6423.0,2015-08-01,8,August,2015,,United States of America,Amarilla
+Midmarket,615.0,260,6150.0,2015-12-01,12,December,2015,,United States of America,Amarilla
+Channel Partners,1858.0,3,5574.0,2015-02-01,2,February,2015,,United States of America,Carretera
+Channel Partners,1445.0,3,4335.0,2015-09-01,9,September,2015,,Canada,Carretera
+Enterprise,330.0,3,39600.0,2015-09-01,9,September,2015,,United States of America,Carretera
+Channel Partners,2671.0,3,8013.0,2015-09-01,9,September,2015,,France,Carretera
+Channel Partners,766.0,3,2298.0,2016-10-01,10,October,2016,,Germany,Carretera
+Small Business,494.0,3,123500.0,2016-10-01,10,October,2016,,Mexico,Carretera
+Midmarket,2214.0,5,22140.0,2016-03-01,3,March,2016,,Mexico,Montana
+Small Business,2301.0,5,575250.0,2016-04-01,4,April,2016,,United States of America,Montana
+Small Business,2498.0,5,624500.0,2016-09-01,9,September,2016,,United States of America,Montana
+Enterprise,663.0,5,79560.0,2016-10-01,10,October,2016,,United States of America,Montana
+Enterprise,923.0,120,110760.0,2016-08-01,8,August,2016,,Canada,Velo
+Enterprise,663.0,120,79560.0,2016-10-01,10,October,2016,,United States of America,Velo
+Enterprise,727.0,250,87240.0,2016-06-01,6,June,2016,,United States of America,VTT
+Enterprise,787.0,250,94440.0,2016-06-01,6,June,2016,,France,VTT
+Small Business,986.0,250,246500.0,2016-09-01,9,September,2016,,Germany,VTT
+Small Business,494.0,250,123500.0,2016-10-01,10,October,2016,,Mexico,VTT
+Enterprise,1744.0,250,209280.0,2016-11-01,11,November,2016,,France,VTT
+Channel Partners,1989.0,260,5967.0,2016-09-01,9,September,2016,,United States of America,Amarilla
+Midmarket,321.0,260,3210.0,2016-11-01,11,November,2016,,France,Amarilla
+Enterprise,742.5,3,89100.0,2016-04-01,4,April,2016,,Canada,Carretera
+Channel Partners,1295.0,3,3885.0,2016-10-01,10,October,2016,,Canada,Carretera
+Small Business,214.0,3,53500.0,2016-10-01,10,October,2016,,Germany,Carretera
+Channel Partners,1142.0,5,3426.0,2016-06-01,6,June,2016,,United States of America,Montana
+Channel Partners,690.0,5,2070.0,2016-11-01,11,November,2016,,Mexico,Montana
+Enterprise,1660.0,5,199200.0,2016-11-01,11,November,2016,,Mexico,Montana
+Enterprise,809.0,120,97080.0,2016-10-01,10,October,2016,,Germany,Velo
+Enterprise,2145.0,120,257400.0,2016-10-01,10,October,2016,,Mexico,Velo
+Channel Partners,1055.0,120,3165.0,2016-12-01,12,December,2016,,France,Velo
+Channel Partners,1084.0,120,3252.0,2016-12-01,12,December,2016,,Mexico,Velo
+Enterprise,662.0,250,79440.0,2016-06-01,6,June,2016,,Mexico,VTT
+Small Business,214.0,250,53500.0,2016-10-01,10,October,2016,,Germany,VTT
+Enterprise,2729.0,250,327480.0,2016-12-01,12,December,2016,,Canada,VTT
+Small Business,259.0,260,64750.0,2016-03-01,3,March,2016,,Germany,Amarilla
+Small Business,1101.0,260,275250.0,2016-03-01,3,March,2016,,Mexico,Amarilla
+Enterprise,2276.0,260,273120.0,2016-05-01,5,May,2016,,Germany,Amarilla
+Small Business,1916.0,260,479000.0,2016-12-01,12,December,2016,,Canada,Amarilla
+Enterprise,4243.5,3,509220.0,2016-04-01,4,April,2016,,France,Carretera
+Small Business,689.0,3,172250.0,2016-06-01,6,June,2016,,Germany,Carretera
+Channel Partners,1947.0,3,5841.0,2016-09-01,9,September,2016,,United States of America,Carretera
+Channel Partners,908.0,3,2724.0,2016-12-01,12,December,2016,,Canada,Carretera
+Channel Partners,1901.0,5,5703.0,2016-06-01,6,June,2016,,France,Montana
+Enterprise,1287.0,5,154440.0,2016-12-01,12,December,2016,,France,Montana
+Enterprise,1706.0,5,204720.0,2016-12-01,12,December,2016,,Germany,Montana
+Enterprise,2009.0,120,241080.0,2016-10-01,10,October,2016,,Canada,Velo
+Small Business,2844.0,250,711000.0,2016-02-01,2,February,2016,,United States of America,VTT
+Channel Partners,1916.0,250,5748.0,2016-04-01,4,April,2016,,Mexico,VTT
+Enterprise,1570.0,250,188400.0,2016-06-01,6,June,2016,,Germany,VTT
+Small Business,1874.0,250,468500.0,2016-08-01,8,August,2016,,Canada,VTT
+Midmarket,1945.0,250,19450.0,2016-10-01,10,October,2016,,Germany,VTT
+Channel Partners,2479.0,250,7437.0,2016-01-01,1,January,2016,,Germany,VTT
+Midmarket,2031.0,5,20310.0,2016-10-01,10,October,2016,,Mexico,Montana
+Small Business,2021.0,3,505250.0,2016-10-01,10,October,2016,,Germany,Carretera
+Midmarket,1967.0,5,19670.0,2016-03-01,3,March,2016,,Canada,Montana
+Small Business,1859.0,5,464750.0,2016-08-01,8,August,2016,,Germany,Montana
+Small Business,2021.0,5,505250.0,2016-10-01,10,October,2016,,Germany,Montana
+Enterprise,1138.0,5,136560.0,2016-12-01,12,December,2016,,Mexico,Montana
+Channel Partners,1465.0,120,4395.0,2016-03-01,3,March,2016,,United States of America,Velo
+Channel Partners,866.0,250,2598.0,2016-05-01,5,May,2016,,France,VTT
+Midmarket,1514.0,250,15140.0,2016-10-01,10,October,2016,,Mexico,VTT
+Enterprise,1074.0,260,128880.0,2016-04-01,4,April,2016,,Mexico,Amarilla
+Midmarket,671.0,260,6710.0,2016-10-01,10,October,2016,,United States of America,Amarilla
+Channel Partners,2431.0,120,7293.0,2016-12-01,12,December,2016,,Canada,Velo
+Channel Partners,1123.0,260,3369.0,2016-08-01,8,August,2016,,Mexico,Amarilla
+Channel Partners,1865.0,3,5595.0,2016-02-01,2,February,2016,,France,Carretera
+Channel Partners,1116.0,3,3348.0,2016-02-01,2,February,2016,,Germany,Carretera
+Small Business,991.0,3,247750.0,2016-06-01,6,June,2016,,United States of America,Carretera
+Midmarket,2791.0,3,27910.0,2016-11-01,11,November,2016,,Mexico,Carretera
+Enterprise,3627.0,5,435240.0,2016-07-01,7,July,2016,,United States of America,Montana
+Channel Partners,2342.0,5,7026.0,2016-11-01,11,November,2016,,Germany,Montana
+Small Business,1100.0,5,275000.0,2016-12-01,12,December,2016,,Mexico,Montana
+Midmarket,555.0,120,5550.0,2016-01-01,1,January,2016,,United States of America,Velo
+Midmarket,2861.0,120,28610.0,2016-01-01,1,January,2016,,Mexico,Velo
+Enterprise,807.0,120,96840.0,2016-02-01,2,February,2016,,Germany,Velo
+Enterprise,861.0,120,103320.0,2016-10-01,10,October,2016,,United States of America,Velo
+Enterprise,704.0,120,84480.0,2016-10-01,10,October,2016,,France,Velo
+Small Business,1250.0,120,312500.0,2016-12-01,12,December,2016,,Germany,Velo
+Small Business,1250.0,260,312500.0,2016-12-01,12,December,2016,,Germany,Amarilla
+Midmarket,2844.0,3,28440.0,2016-06-01,6,June,2016,,Canada,Carretera
+Channel Partners,562.0,3,1686.0,2016-09-01,9,September,2016,,Mexico,Carretera
+Channel Partners,2299.0,3,6897.0,2016-10-01,10,October,2016,,Canada,Carretera
+Midmarket,2030.0,3,20300.0,2016-11-01,11,November,2016,,United States of America,Carretera
+Enterprise,887.0,3,106440.0,2016-12-01,12,December,2016,,Germany,Carretera
+Channel Partners,2723.0,5,8169.0,2016-11-01,11,November,2016,,United States of America,Montana
+Enterprise,952.0,120,114240.0,2016-02-01,2,February,2016,,Canada,Velo
+Enterprise,2755.0,120,330600.0,2016-02-01,2,February,2016,,United States of America,Velo
+Midmarket,1530.0,120,15300.0,2016-05-01,5,May,2016,,Germany,Velo
+Small Business,1221.0,120,305250.0,2016-10-01,10,October,2016,,France,Velo
+Midmarket,2844.0,250,28440.0,2016-06-01,6,June,2016,,Canada,VTT
+Small Business,1221.0,250,305250.0,2016-10-01,10,October,2016,,France,VTT
+Small Business,2436.0,250,609000.0,2016-12-01,12,December,2016,,Canada,VTT
+Enterprise,1987.5,260,238500.0,2016-01-01,1,January,2016,,France,Amarilla
+Midmarket,1153.0,250,11530.0,2016-10-01,10,October,2016,,United States of America,VTT
+Channel Partners,727.0,3,2181.0,2016-02-01,2,February,2016,,Mexico,Carretera
+Channel Partners,1884.0,3,5652.0,2016-08-01,8,August,2016,,Canada,Carretera
+Channel Partners,2340.0,5,7020.0,2016-01-01,1,January,2016,,Mexico,Montana
+Channel Partners,2342.0,5,7026.0,2016-11-01,11,November,2016,,France,Montana
+Midmarket,1262.0,120,12620.0,2016-05-01,5,May,2016,,Canada,Velo
+Channel Partners,1738.5,250,5215.5,2016-04-01,4,April,2016,,France,VTT
+Channel Partners,2215.0,250,6645.0,2016-09-01,9,September,2016,,Germany,VTT
+Small Business,448.0,3,112000.0,2016-06-01,6,June,2016,,France,Carretera
+Small Business,2181.0,3,545250.0,2016-10-01,10,October,2016,,France,Carretera
+Small Business,2181.0,5,545250.0,2016-10-01,10,October,2016,,France,Montana
+Enterprise,2500.0,5,300000.0,2016-11-01,11,November,2016,,Germany,Montana
+Small Business,1659.0,120,414750.0,2016-07-01,7,July,2016,,France,Velo
+Enterprise,2087.0,120,250440.0,2016-09-01,9,September,2016,,Germany,Velo
+Small Business,1372.0,120,343000.0,2016-12-01,12,December,2016,,United States of America,Velo
+Channel Partners,3244.5,250,9733.5,2016-01-01,1,January,2016,,Canada,VTT
+Small Business,959.0,250,239750.0,2016-02-01,2,February,2016,,France,VTT
+Small Business,2747.0,250,686750.0,2016-02-01,2,February,2016,,Mexico,VTT
+Enterprise,1645.0,260,197400.0,2016-05-01,5,May,2016,,Canada,Amarilla
+Enterprise,994.0,260,119280.0,2016-09-01,9,September,2016,,Germany,Amarilla
+Small Business,1372.0,260,343000.0,2016-12-01,12,December,2016,,United States of America,Amarilla
+Enterprise,1540.0,3,184800.0,2016-08-01,8,August,2016,,Mexico,Carretera
+Midmarket,490.0,3,4900.0,2016-11-01,11,November,2016,,France,Carretera
+Midmarket,2501.0,5,25010.0,2016-03-01,3,March,2016,,France,Montana
+Small Business,1562.0,5,390500.0,2016-08-01,8,August,2016,,France,Montana
+Small Business,1283.0,5,320750.0,2016-09-01,9,September,2016,,Canada,Montana
+Midmarket,711.0,5,7110.0,2016-12-01,12,December,2016,,Germany,Montana
+Channel Partners,598.0,120,1794.0,2016-03-01,3,March,2016,,Canada,Velo
+Small Business,386.0,120,96500.0,2016-11-01,11,November,2016,,France,Velo
+Small Business,635.0,120,158750.0,2016-12-01,12,December,2016,,Mexico,Velo
+Small Business,2134.0,250,533500.0,2016-09-01,9,September,2016,,Canada,VTT
+Small Business,808.0,250,202000.0,2016-12-01,12,December,2016,,United States of America,VTT
+Small Business,2460.0,260,615000.0,2016-06-01,6,June,2016,,Mexico,Amarilla
+Midmarket,711.0,260,7110.0,2016-12-01,12,December,2016,,Germany,Amarilla
+Channel Partners,1375.0,260,4125.0,2016-12-01,12,December,2016,,Mexico,Amarilla
+Small Business,635.0,260,158750.0,2016-12-01,12,December,2016,,Mexico,Amarilla
+Small Business,1094.0,3,273500.0,2016-06-01,6,June,2016,,Canada,Carretera
+Channel Partners,367.0,3,1101.0,2016-10-01,10,October,2016,,Mexico,Carretera
+Small Business,3802.5,5,950625.0,2016-04-01,4,April,2016,,Canada,Montana
+Small Business,322.0,5,80500.0,2016-09-01,9,September,2016,,France,Montana
+Channel Partners,2321.0,5,6963.0,2016-11-01,11,November,2016,,Canada,Montana
+Enterprise,1857.0,5,222840.0,2016-11-01,11,November,2016,,France,Montana
+Enterprise,2797.0,5,335640.0,2016-12-01,12,December,2016,,United States of America,Montana
+Small Business,334.0,5,83500.0,2016-12-01,12,December,2016,,Germany,Montana
+Midmarket,245.0,120,2450.0,2016-05-01,5,May,2016,,Mexico,Velo
+Small Business,3793.5,120,948375.0,2016-07-01,7,July,2016,,Canada,Velo
+Enterprise,567.0,120,68040.0,2016-09-01,9,September,2016,,Canada,Velo
+Enterprise,2110.0,120,253200.0,2016-09-01,9,September,2016,,Mexico,Velo
+Channel Partners,1956.0,250,5868.0,2016-01-01,1,January,2016,,United States of America,VTT
+Small Business,2659.0,250,664750.0,2016-02-01,2,February,2016,,Germany,VTT
+Channel Partners,880.0,250,2640.0,2016-05-01,5,May,2016,,Germany,VTT
+Small Business,1867.0,250,466750.0,2016-09-01,9,September,2016,,United States of America,VTT
+Channel Partners,2234.0,250,6702.0,2016-09-01,9,September,2016,,France,VTT
+Midmarket,1227.0,250,12270.0,2016-10-01,10,October,2016,,France,VTT
+Enterprise,877.0,250,105240.0,2016-11-01,11,November,2016,,Mexico,VTT
+Midmarket,970.0,260,9700.0,2016-11-01,11,November,2016,,Germany,Amarilla
+Channel Partners,1580.0,3,4740.0,2016-09-01,9,September,2016,,Germany,Carretera
+Channel Partners,1967.0,120,5901.0,2016-03-01,3,March,2016,,France,Velo
+Midmarket,2628.0,120,26280.0,2016-04-01,4,April,2016,,Mexico,Velo
+Midmarket,1630.5,260,16305.0,2016-07-01,7,July,2016,,Canada,Amarilla
+Channel Partners,306.0,260,918.0,2016-12-01,12,December,2016,,France,Amarilla
+Channel Partners,386.0,3,1158.0,2016-10-01,10,October,2016,,United States of America,Carretera
+Enterprise,3445.5,3,413460.0,2016-04-01,4,April,2016,,United States of America,Carretera
+Enterprise,1482.0,3,177840.0,2016-12-01,12,December,2016,,France,Carretera
+Enterprise,1804.0,5,216480.0,2016-11-01,11,November,2016,,United States of America,Montana
+Midmarket,2072.0,5,20720.0,2016-12-01,12,December,2016,,France,Montana
+Midmarket,681.0,120,6810.0,2016-01-01,1,January,2016,,Germany,Velo
+Midmarket,510.0,120,5100.0,2016-04-01,4,April,2016,,Germany,Velo
+Midmarket,790.0,120,7900.0,2016-05-01,5,May,2016,,United States of America,Velo
+Enterprise,1596.0,120,191520.0,2016-09-01,9,September,2016,,United States of America,Velo
+Small Business,2294.0,120,573500.0,2016-10-01,10,October,2016,,United States of America,Velo
+Enterprise,1916.0,120,229920.0,2016-12-01,12,December,2016,,Canada,Velo
+Small Business,853.0,120,213250.0,2016-12-01,12,December,2016,,France,Velo
+Enterprise,341.0,250,40920.0,2016-05-01,5,May,2016,,Mexico,VTT
+Midmarket,641.0,250,6410.0,2016-07-01,7,July,2016,,Mexico,VTT
+Small Business,432.0,250,108000.0,2016-09-01,9,September,2016,,Mexico,VTT
+Small Business,2294.0,250,573500.0,2016-10-01,10,October,2016,,United States of America,VTT
+Midmarket,2167.0,250,21670.0,2016-10-01,10,October,2016,,France,VTT
+Enterprise,2529.0,250,303480.0,2016-11-01,11,November,2016,,Canada,VTT
+Enterprise,579.0,260,69480.0,2016-01-01,1,January,2016,,United States of America,Amarilla
+Small Business,2993.0,260,748250.0,2016-03-01,3,March,2016,,United States of America,Amarilla
+Channel Partners,3520.5,260,10561.5,2016-04-01,4,April,2016,,Canada,Amarilla
+Channel Partners,2574.0,260,7722.0,2016-08-01,8,August,2016,,Germany,Amarilla
+Midmarket,2072.0,260,20720.0,2016-12-01,12,December,2016,,France,Amarilla
+Small Business,853.0,260,213250.0,2016-12-01,12,December,2016,,France,Amarilla
+Channel Partners,1198.0,3,3594.0,2016-10-01,10,October,2016,,France,Carretera
+Midmarket,384.0,120,3840.0,2016-01-01,1,January,2016,,Canada,Velo
+Channel Partners,472.0,120,1416.0,2016-10-01,10,October,2016,,Germany,Velo
+Channel Partners,1005.0,250,3015.0,2016-09-01,9,September,2016,,Mexico,VTT
+Midmarket,3199.5,260,31995.0,2016-07-01,7,July,2016,,United States of America,Amarilla
+Channel Partners,472.0,260,1416.0,2016-10-01,10,October,2016,,Germany,Amarilla
+Channel Partners,1937.0,3,5811.0,2016-02-01,2,February,2016,,Canada,Carretera
+Small Business,2811.0,3,702750.0,2016-07-01,7,July,2016,,Germany,Carretera
+Enterprise,2441.0,3,292920.0,2016-10-01,10,October,2016,,France,Carretera
+Midmarket,1560.0,3,15600.0,2016-11-01,11,November,2016,,Canada,Carretera
+Midmarket,2157.0,5,21570.0,2016-12-01,12,December,2016,,Mexico,Montana
+Midmarket,655.0,120,6550.0,2016-09-01,9,September,2016,,Mexico,Velo
+Channel Partners,1734.0,250,5202.0,2016-01-01,1,January,2016,,France,VTT
+Enterprise,554.0,250,66480.0,2016-01-01,1,January,2016,,Mexico,VTT
+Enterprise,3165.0,260,379800.0,2016-01-01,1,January,2016,,Germany,Amarilla
+Enterprise,1433.0,260,171960.0,2016-05-01,5,May,2016,,France,Amarilla
+Enterprise,947.0,260,113640.0,2016-09-01,9,September,2016,,Mexico,Amarilla
+Midmarket,2157.0,260,21570.0,2016-12-01,12,December,2016,,Mexico,Amarilla
+Enterprise,2416.0,3,289920.0,2016-09-01,9,September,2016,,Canada,Carretera
+Enterprise,2156.0,3,258720.0,2016-10-01,10,October,2016,,Mexico,Carretera
+Midmarket,2689.0,3,26890.0,2016-11-01,11,November,2016,,Canada,Carretera
+Midmarket,677.0,5,6770.0,2016-03-01,3,March,2016,,United States of America,Montana
+Small Business,1773.0,5,443250.0,2016-04-01,4,April,2016,,France,Montana
+Small Business,1186.0,5,296500.0,2016-12-01,12,December,2016,,France,Montana
+Channel Partners,2109.0,250,6327.0,2016-05-01,5,May,2016,,Canada,VTT
+Midmarket,3874.5,250,38745.0,2016-07-01,7,July,2016,,France,VTT
+Enterprise,2387.0,250,286440.0,2016-11-01,11,November,2016,,United States of America,VTT
+Midmarket,2548.0,260,25480.0,2016-11-01,11,November,2016,,United States of America,Amarilla
+Channel Partners,2661.0,5,7983.0,2016-05-01,5,May,2016,,Mexico,Montana
+Channel Partners,2761.0,260,8283.0,2016-09-01,9,September,2016,,Canada,Amarilla
+Midmarket,2567.0,3,25670.0,2016-06-01,6,June,2016,,United States of America,Carretera
+Midmarket,2567.0,250,25670.0,2016-06-01,6,June,2016,,United States of America,VTT
+Channel Partners,604.0,5,1812.0,2016-06-01,6,June,2016,,Mexico,Montana
+Midmarket,3997.5,120,39975.0,2016-01-01,1,January,2016,,France,Velo
+Channel Partners,604.0,120,1812.0,2016-06-01,6,June,2016,,Mexico,Velo
+Midmarket,660.0,120,6600.0,2016-09-01,9,September,2016,,Germany,Velo
+Channel Partners,410.0,120,1230.0,2016-10-01,10,October,2016,,Mexico,Velo
+Small Business,2605.0,120,651250.0,2016-11-01,11,November,2016,,Mexico,Velo
+Channel Partners,1013.0,120,3039.0,2016-12-01,12,December,2016,,Germany,Velo
+Enterprise,1583.0,250,189960.0,2016-06-01,6,June,2016,,Canada,VTT
+Midmarket,1565.0,250,15650.0,2016-10-01,10,October,2016,,Canada,VTT
+Enterprise,1659.0,260,199080.0,2016-01-01,1,January,2016,,Canada,Amarilla
+Channel Partners,410.0,260,1230.0,2016-10-01,10,October,2016,,Mexico,Amarilla
+Channel Partners,1770.0,260,5310.0,2016-12-01,12,December,2016,,Germany,Amarilla
+Channel Partners,1393.0,260,4179.0,2016-10-01,10,October,2016,,France,Amarilla
+Channel Partners,2015.0,260,6045.0,2016-12-01,12,December,2016,,United States of America,Amarilla
+Small Business,801.0,3,200250.0,2016-07-01,7,July,2016,,Mexico,Carretera
+Enterprise,1023.0,3,122760.0,2016-09-01,9,September,2016,,France,Carretera
+Small Business,1496.0,3,374000.0,2016-10-01,10,October,2016,,Canada,Carretera
+Small Business,1010.0,3,252500.0,2016-10-01,10,October,2016,,United States of America,Carretera
+Midmarket,1513.0,3,15130.0,2016-11-01,11,November,2016,,Germany,Carretera
+Midmarket,2300.0,3,23000.0,2016-12-01,12,December,2016,,Canada,Carretera
+Enterprise,2821.0,3,338520.0,2016-12-01,12,December,2016,,Mexico,Carretera
+Midmarket,2300.0,5,23000.0,2016-12-01,12,December,2016,,Canada,Montana
+Enterprise,1575.0,120,189000.0,2016-02-01,2,February,2016,,Mexico,Velo
+Small Business,2460.0,120,615000.0,2016-07-01,7,July,2016,,United States of America,Velo
+Small Business,269.0,120,67250.0,2016-10-01,10,October,2016,,Canada,Velo
+Small Business,2536.0,120,634000.0,2016-11-01,11,November,2016,,Germany,Velo
+Small Business,2541.0,250,635250.0,2016-08-01,8,August,2016,,United States of America,VTT
+Small Business,269.0,250,67250.0,2016-10-01,10,October,2016,,Canada,VTT
+Small Business,1496.0,250,374000.0,2016-10-01,10,October,2016,,Canada,VTT
+Small Business,1010.0,250,252500.0,2016-10-01,10,October,2016,,United States of America,VTT
+Small Business,888.0,260,222000.0,2016-03-01,3,March,2016,,Canada,Amarilla
+Enterprise,2844.0,260,341280.0,2016-05-01,5,May,2016,,United States of America,Amarilla
+Channel Partners,2475.0,260,7425.0,2016-08-01,8,August,2016,,France,Amarilla
+Midmarket,1743.0,260,17430.0,2016-10-01,10,October,2016,,Canada,Amarilla
+Channel Partners,2914.0,260,8742.0,2016-10-01,10,October,2016,,United States of America,Amarilla
+Midmarket,1870.0,260,18700.0,2016-11-01,11,November,2016,,Mexico,Amarilla
+Enterprise,1174.0,3,140880.0,2016-08-01,8,August,2016,,France,Carretera
+Enterprise,2767.0,3,332040.0,2016-08-01,8,August,2016,,Germany,Carretera
+Enterprise,1085.0,3,130200.0,2016-10-01,10,October,2016,,Germany,Carretera
+Small Business,546.0,5,136500.0,2016-10-01,10,October,2016,,Mexico,Montana
+Channel Partners,500.0,120,1500.0,2016-03-01,3,March,2016,,Mexico,Velo
+Midmarket,2826.0,120,28260.0,2016-05-01,5,May,2016,,France,Velo
+Enterprise,663.0,120,79560.0,2016-09-01,9,September,2016,,France,Velo
+Small Business,2574.0,120,643500.0,2016-11-01,11,November,2016,,United States of America,Velo
+Enterprise,2438.0,120,292560.0,2016-12-01,12,December,2016,,United States of America,Velo
+Channel Partners,914.0,120,2742.0,2016-12-01,12,December,2016,,United States of America,Velo
+Midmarket,492.0,250,4920.0,2016-07-01,7,July,2016,,Germany,VTT
+Midmarket,1175.0,250,11750.0,2016-10-01,10,October,2016,,Germany,VTT
+Enterprise,2954.0,250,354480.0,2016-11-01,11,November,2016,,Canada,VTT
+Enterprise,552.0,250,66240.0,2016-11-01,11,November,2016,,Germany,VTT
+Small Business,2475.0,260,618750.0,2016-03-01,3,March,2016,,France,Amarilla
+Small Business,546.0,260,136500.0,2016-10-01,10,October,2016,,Mexico,Amarilla
+Channel Partners,1806.0,250,5418.0,2016-05-01,5,May,2016,,United States of America,VTT
+Midmarket,974.0,10,9740.0,2016-02-01,2,February,2016,,Mexico,Paseo
+Channel Partners,2518.0,10,7554.0,2016-06-01,6,June,2016,,Canada,Paseo
+Channel Partners,367.0,10,1101.0,2016-07-01,7,July,2016,,Germany,Paseo
+Midmarket,549.0,10,5490.0,2016-09-01,9,September,2016,,France,Paseo
+Small Business,788.0,10,197000.0,2016-09-01,9,September,2016,,Mexico,Paseo
+Midmarket,2472.0,10,24720.0,2016-09-01,9,September,2016,,Mexico,Paseo
+Channel Partners,912.0,10,2736.0,2016-11-01,11,November,2016,,United States of America,Paseo
+Midmarket,2152.0,10,21520.0,2016-12-01,12,December,2016,,Canada,Paseo
+Midmarket,2296.0,10,22960.0,2016-02-01,2,February,2016,,France,Paseo
+Midmarket,1514.0,10,15140.0,2016-02-01,2,February,2016,,United States of America,Paseo
+Enterprise,727.0,10,87240.0,2016-06-01,6,June,2016,,United States of America,Paseo
+Enterprise,787.0,10,94440.0,2016-06-01,6,June,2016,,France,Paseo
+Enterprise,1823.0,10,218760.0,2016-07-01,7,July,2016,,Mexico,Paseo
+Midmarket,747.0,10,7470.0,2016-09-01,9,September,2016,,Germany,Paseo
+Channel Partners,766.0,10,2298.0,2016-10-01,10,October,2016,,Germany,Paseo
+Small Business,2905.0,10,726250.0,2016-11-01,11,November,2016,,United States of America,Paseo
+Midmarket,2363.0,10,23630.0,2016-02-01,2,February,2016,,Canada,Paseo
+Small Business,918.0,10,229500.0,2016-05-01,5,May,2016,,France,Paseo
+Small Business,1728.0,10,432000.0,2016-05-01,5,May,2016,,Germany,Paseo
+Channel Partners,1142.0,10,3426.0,2016-06-01,6,June,2016,,United States of America,Paseo
+Enterprise,662.0,10,79440.0,2016-06-01,6,June,2016,,Mexico,Paseo
+Channel Partners,1295.0,10,3885.0,2016-10-01,10,October,2016,,Canada,Paseo
+Enterprise,809.0,10,97080.0,2016-10-01,10,October,2016,,Germany,Paseo
+Enterprise,2145.0,10,257400.0,2016-10-01,10,October,2016,,Mexico,Paseo
+Channel Partners,1785.0,10,5355.0,2016-11-01,11,November,2016,,France,Paseo
+Small Business,1916.0,10,479000.0,2016-12-01,12,December,2016,,Canada,Paseo
+Enterprise,2729.0,10,327480.0,2016-12-01,12,December,2016,,Canada,Paseo
+Midmarket,1925.0,10,19250.0,2016-12-01,12,December,2016,,United States of America,Paseo
+Channel Partners,1055.0,10,3165.0,2016-12-01,12,December,2016,,France,Paseo
+Channel Partners,1084.0,10,3252.0,2016-12-01,12,December,2016,,Mexico,Paseo
+Small Business,2434.5,10,608625.0,2016-01-01,1,January,2016,,France,Paseo
+Enterprise,1774.0,10,212880.0,2016-03-01,3,March,2016,,Canada,Paseo
+Channel Partners,1901.0,10,5703.0,2016-06-01,6,June,2016,,France,Paseo
+Small Business,689.0,10,172250.0,2016-06-01,6,June,2016,,Germany,Paseo
+Enterprise,1570.0,10,188400.0,2016-06-01,6,June,2016,,Germany,Paseo
+Channel Partners,1369.5,10,4108.5,2016-07-01,7,July,2016,,United States of America,Paseo
+Enterprise,2009.0,10,241080.0,2016-10-01,10,October,2016,,Canada,Paseo
+Midmarket,1945.0,10,19450.0,2016-10-01,10,October,2016,,Germany,Paseo
+Enterprise,1287.0,10,154440.0,2016-12-01,12,December,2016,,France,Paseo
+Enterprise,1706.0,10,204720.0,2016-12-01,12,December,2016,,Germany,Paseo
+Midmarket,2031.0,10,20310.0,2016-10-01,10,October,2016,,Mexico,Paseo
+Midmarket,2261.0,10,22610.0,2016-12-01,12,December,2016,,France,Paseo
+Enterprise,795.0,10,95400.0,2016-03-01,3,March,2016,,Germany,Paseo
+Small Business,1414.5,10,353625.0,2016-04-01,4,April,2016,,Germany,Paseo
+Small Business,2918.0,10,729500.0,2016-05-01,5,May,2016,,United States of America,Paseo
+Enterprise,2988.0,10,358560.0,2016-07-01,7,July,2016,,France,Paseo
+Midmarket,218.0,10,2180.0,2016-09-01,9,September,2016,,Canada,Paseo
+Midmarket,671.0,10,6710.0,2016-10-01,10,October,2016,,United States of America,Paseo
+Midmarket,1514.0,10,15140.0,2016-10-01,10,October,2016,,Mexico,Paseo
+Enterprise,1138.0,10,136560.0,2016-12-01,12,December,2016,,Mexico,Paseo
+Channel Partners,2431.0,10,7293.0,2016-12-01,12,December,2016,,Canada,Paseo
+Enterprise,2992.0,10,359040.0,2016-03-01,3,March,2016,,United States of America,Paseo
+Enterprise,2385.0,10,286200.0,2016-03-01,3,March,2016,,France,Paseo
+Small Business,1607.0,10,401750.0,2016-04-01,4,April,2016,,Mexico,Paseo
+Small Business,991.0,10,247750.0,2016-06-01,6,June,2016,,United States of America,Paseo
+Midmarket,2620.0,10,26200.0,2016-09-01,9,September,2016,,France,Paseo
+Enterprise,861.0,10,103320.0,2016-10-01,10,October,2016,,United States of America,Paseo
+Enterprise,704.0,10,84480.0,2016-10-01,10,October,2016,,France,Paseo
+Midmarket,2116.0,10,21160.0,2016-12-01,12,December,2016,,Germany,Paseo
+Midmarket,3801.0,10,38010.0,2016-04-01,4,April,2016,,France,Paseo
+Channel Partners,2299.0,10,6897.0,2016-10-01,10,October,2016,,Canada,Paseo
+Midmarket,2198.0,10,21980.0,2016-08-01,8,August,2016,,United States of America,Paseo
+Midmarket,1743.0,10,17430.0,2016-08-01,8,August,2016,,Germany,Paseo
+Midmarket,1153.0,10,11530.0,2016-10-01,10,October,2016,,United States of America,Paseo
+Small Business,1702.0,10,425500.0,2016-05-01,5,May,2016,,Canada,Paseo
+Small Business,448.0,10,112000.0,2016-06-01,6,June,2016,,France,Paseo
+Enterprise,3513.0,10,421560.0,2016-07-01,7,July,2016,,Germany,Paseo
+Midmarket,2101.0,10,21010.0,2016-08-01,8,August,2016,,France,Paseo
+Midmarket,2931.0,10,29310.0,2016-09-01,9,September,2016,,United States of America,Paseo
+Small Business,1123.0,10,280750.0,2016-09-01,9,September,2016,,Germany,Paseo
+Small Business,1404.0,10,351000.0,2016-11-01,11,November,2016,,Canada,Paseo
+Channel Partners,2763.0,10,8289.0,2016-11-01,11,November,2016,,Mexico,Paseo
